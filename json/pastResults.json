@@ -1,0 +1,10202 @@
+[
+	{
+		"Name":"SRPT",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":1,
+		"Shares":40,
+		"Open":125.0,
+		"Last":119.0,
+		"RET_BH":-5.12,
+		"RET":-5.12
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":-1,
+		"Shares":350,
+		"Open":14.66,
+		"Last":14.43,
+		"RET_BH":-1.64,
+		"RET":1.64
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":1,
+		"Shares":1740,
+		"Open":2.880,
+		"Last":2.770,
+		"RET_BH":-2.47,
+		"RET":-2.47
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":-1,
+		"Shares":930,
+		"Open":5.430,
+		"Last":5.380,
+		"RET_BH":0.555,
+		"RET":-0.555
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":-1,
+		"Shares":660,
+		"Open":7.650,
+		"Last":8.020,
+		"RET_BH":5.53,
+		"RET":-5.53
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":1,
+		"Shares":210,
+		"Open":24.48,
+		"Last":22.87,
+		"RET_BH":-6.50,
+		"RET":-6.50
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":1,
+		"Shares":500,
+		"Open":10.05,
+		"Last":9.870,
+		"RET_BH":-1.60,
+		"RET":-1.60
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":-1,
+		"Shares":540,
+		"Open":9.300,
+		"Last":9.340,
+		"RET_BH":0.215,
+		"RET":-0.215
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":-1,
+		"Shares":390,
+		"Open":12.90,
+		"Last":12.61,
+		"RET_BH":-3.08,
+		"RET":3.08
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":300.0,
+		"Last":286.2,
+		"RET_BH":-5.69,
+		"RET":5.69
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":-1,
+		"Shares":5960,
+		"Open":0.8400,
+		"Last":0.8280,
+		"RET_BH":-3.70,
+		"RET":3.70
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":-1,
+		"Shares":270,
+		"Open":18.92,
+		"Last":18.93,
+		"RET_BH":0.371,
+		"RET":-0.371
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":1,
+		"Shares":220,
+		"Open":22.89,
+		"Last":22.85,
+		"RET_BH":-0.0440,
+		"RET":-0.0440
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":1,
+		"Shares":3680,
+		"Open":1.360,
+		"Last":1.390,
+		"RET_BH":1.46,
+		"RET":1.46
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":-1,
+		"Shares":110,
+		"Open":45.68,
+		"Last":38.99,
+		"RET_BH":-13.3,
+		"RET":13.3
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":-1,
+		"Shares":1750,
+		"Open":2.860,
+		"Last":3.090,
+		"RET_BH":7.29,
+		"RET":-7.29
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":-1,
+		"Shares":1410,
+		"Open":3.560,
+		"Last":3.320,
+		"RET_BH":-7.52,
+		"RET":7.52
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":-1,
+		"Shares":570,
+		"Open":8.800,
+		"Last":8.260,
+		"RET_BH":-6.67,
+		"RET":6.67
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":1,
+		"Shares":430,
+		"Open":11.86,
+		"Last":11.42,
+		"RET_BH":-3.63,
+		"RET":-3.63
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 16 Nov 2018 ",
+		"Signal":1,
+		"Shares":260,
+		"Open":19.95,
+		"Last":19.78,
+		"RET_BH":-0.852,
+		"RET":-0.852
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":1,
+		"Shares":40,
+		"Open":146.8,
+		"Last":125.5,
+		"RET_BH":14.1,
+		"RET":14.1
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":1,
+		"Shares":310,
+		"Open":16.34,
+		"Last":14.67,
+		"RET_BH":9.33,
+		"RET":9.33
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":1,
+		"Shares":1580,
+		"Open":3.170,
+		"Last":2.840,
+		"RET_BH":-8.39,
+		"RET":-8.39
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":-1,
+		"Shares":950,
+		"Open":5.300,
+		"Last":5.410,
+		"RET_BH":2.46,
+		"RET":-2.46
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":-1,
+		"Shares":600,
+		"Open":8.380,
+		"Last":7.600,
+		"RET_BH":-8.43,
+		"RET":8.43
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":-1,
+		"Shares":210,
+		"Open":24.86,
+		"Last":24.46,
+		"RET_BH":-1.53,
+		"RET":1.53
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":-1,
+		"Shares":500,
+		"Open":10.04,
+		"Last":10.03,
+		"RET_BH":0.199,
+		"RET":-0.199
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":-1,
+		"Shares":520,
+		"Open":9.670,
+		"Last":9.320,
+		"RET_BH":4.21,
+		"RET":-4.21
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":-1,
+		"Shares":360,
+		"Open":14.24,
+		"Last":13.01,
+		"RET_BH":-8.38,
+		"RET":8.38
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":1,
+		"Shares":20,
+		"Open":311.1,
+		"Last":303.5,
+		"RET_BH":-1.82,
+		"RET":-1.82
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":-1,
+		"Shares":6030,
+		"Open":0.8300,
+		"Last":0.8598,
+		"RET_BH":3.59,
+		"RET":-3.59
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":-1,
+		"Shares":230,
+		"Open":22.64,
+		"Last":18.86,
+		"RET_BH":-17.0,
+		"RET":17.0
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":-1,
+		"Shares":250,
+		"Open":20.56,
+		"Last":22.86,
+		"RET_BH":9.07,
+		"RET":-9.07
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":1,
+		"Shares":3880,
+		"Open":1.290,
+		"Last":1.370,
+		"RET_BH":4.58,
+		"RET":4.58
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":-1,
+		"Shares":120,
+		"Open":44.43,
+		"Last":44.99,
+		"RET_BH":1.88,
+		"RET":-1.88
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":-1,
+		"Shares":1560,
+		"Open":3.220,
+		"Last":2.880,
+		"RET_BH":-9.43,
+		"RET":9.43
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":-1,
+		"Shares":1390,
+		"Open":3.620,
+		"Last":3.590,
+		"RET_BH":-10.7,
+		"RET":10.7
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":1,
+		"Shares":550,
+		"Open":9.230,
+		"Last":8.850,
+		"RET_BH":3.60,
+		"RET":3.60
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":1,
+		"Shares":450,
+		"Open":11.24,
+		"Last":11.85,
+		"RET_BH":4.96,
+		"RET":4.96
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 9 Nov 2018 ",
+		"Signal":1,
+		"Shares":260,
+		"Open":19.70,
+		"Last":19.95,
+		"RET_BH":2.52,
+		"RET":2.52
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":1,
+		"Shares":50,
+		"Open":123.4,
+		"Last":146.0,
+		"RET_BH":-19.3,
+		"RET":-19.3
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":-1,
+		"Shares":340,
+		"Open":14.94,
+		"Last":16.18,
+		"RET_BH":8.16,
+		"RET":-8.16
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":1,
+		"Shares":2060,
+		"Open":2.430,
+		"Last":3.100,
+		"RET_BH":29.7,
+		"RET":29.7
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":-1,
+		"Shares":1010,
+		"Open":4.990,
+		"Last":5.280,
+		"RET_BH":6.67,
+		"RET":-6.67
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":-1,
+		"Shares":610,
+		"Open":8.250,
+		"Last":8.300,
+		"RET_BH":0.606,
+		"RET":-0.606
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":1,
+		"Shares":270,
+		"Open":19.21,
+		"Last":24.84,
+		"RET_BH":31.6,
+		"RET":31.6
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":-1,
+		"Shares":520,
+		"Open":9.660,
+		"Last":10.05,
+		"RET_BH":5.46,
+		"RET":-5.46
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":-1,
+		"Shares":640,
+		"Open":7.870,
+		"Last":9.730,
+		"RET_BH":26.0,
+		"RET":-26.0
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":-1,
+		"Shares":370,
+		"Open":13.82,
+		"Last":14.20,
+		"RET_BH":3.80,
+		"RET":-3.80
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":305.3,
+		"Last":309.1,
+		"RET_BH":-3.09,
+		"RET":3.09
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":-1,
+		"Shares":5560,
+		"Open":0.9000,
+		"Last":0.8300,
+		"RET_BH":-6.17,
+		"RET":6.17
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":-1,
+		"Shares":230,
+		"Open":22.36,
+		"Last":22.73,
+		"RET_BH":-4.55,
+		"RET":4.55
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":1,
+		"Shares":330,
+		"Open":15.44,
+		"Last":20.96,
+		"RET_BH":-40.2,
+		"RET":-40.2
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":1,
+		"Shares":4210,
+		"Open":1.190,
+		"Last":1.310,
+		"RET_BH":9.17,
+		"RET":9.17
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":-1,
+		"Shares":120,
+		"Open":42.97,
+		"Last":44.16,
+		"RET_BH":4.08,
+		"RET":-4.08
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":-1,
+		"Shares":1600,
+		"Open":3.130,
+		"Last":3.180,
+		"RET_BH":1.92,
+		"RET":-1.92
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":-1,
+		"Shares":1200,
+		"Open":4.170,
+		"Last":4.020,
+		"RET_BH":-2.19,
+		"RET":2.19
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":1,
+		"Shares":690,
+		"Open":7.320,
+		"Last":9.180,
+		"RET_BH":27.1,
+		"RET":27.1
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":1,
+		"Shares":460,
+		"Open":10.96,
+		"Last":11.29,
+		"RET_BH":3.96,
+		"RET":3.96
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 2 Nov 2018 ",
+		"Signal":1,
+		"Shares":270,
+		"Open":18.96,
+		"Last":19.46,
+		"RET_BH":4.23,
+		"RET":4.23
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":1,
+		"Shares":40,
+		"Open":134.9,
+		"Last":122.4,
+		"RET_BH":8.83,
+		"RET":8.83
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":1,
+		"Shares":300,
+		"Open":16.78,
+		"Last":14.96,
+		"RET_BH":-10.6,
+		"RET":-10.6
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":-1,
+		"Shares":1970,
+		"Open":2.540,
+		"Last":2.390,
+		"RET_BH":-5.91,
+		"RET":5.91
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":-1,
+		"Shares":880,
+		"Open":5.690,
+		"Last":4.950,
+		"RET_BH":-13.2,
+		"RET":13.2
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":-1,
+		"Shares":570,
+		"Open":8.910,
+		"Last":8.250,
+		"RET_BH":-6.78,
+		"RET":6.78
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":1,
+		"Shares":260,
+		"Open":19.87,
+		"Last":18.87,
+		"RET_BH":4.36,
+		"RET":4.36
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":-1,
+		"Shares":480,
+		"Open":10.43,
+		"Last":9.530,
+		"RET_BH":-8.28,
+		"RET":8.28
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":-1,
+		"Shares":510,
+		"Open":9.820,
+		"Last":7.720,
+		"RET_BH":-21.2,
+		"RET":21.2
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":-1,
+		"Shares":340,
+		"Open":14.78,
+		"Last":13.68,
+		"RET_BH":-7.38,
+		"RET":7.38
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":333.1,
+		"Last":299.8,
+		"RET_BH":-9.87,
+		"RET":9.87
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":-1,
+		"Shares":5560,
+		"Open":0.9000,
+		"Last":0.8846,
+		"RET_BH":-2.79,
+		"RET":2.79
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":-1,
+		"Shares":230,
+		"Open":22.17,
+		"Last":21.74,
+		"RET_BH":2.12,
+		"RET":-2.12
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":1,
+		"Shares":320,
+		"Open":15.97,
+		"Last":14.95,
+		"RET_BH":5.56,
+		"RET":5.56
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":1,
+		"Shares":4100,
+		"Open":1.220,
+		"Last":1.200,
+		"RET_BH":-1.64,
+		"RET":-1.64
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":-1,
+		"Shares":110,
+		"Open":46.84,
+		"Last":42.43,
+		"RET_BH":-8.54,
+		"RET":8.54
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":-1,
+		"Shares":1520,
+		"Open":3.310,
+		"Last":3.120,
+		"RET_BH":-5.74,
+		"RET":5.74
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":-1,
+		"Shares":1220,
+		"Open":4.130,
+		"Last":4.110,
+		"RET_BH":0.244,
+		"RET":-0.244
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":1,
+		"Shares":650,
+		"Open":7.700,
+		"Last":7.220,
+		"RET_BH":6.11,
+		"RET":6.11
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":1,
+		"Shares":490,
+		"Open":10.40,
+		"Last":10.86,
+		"RET_BH":-5.64,
+		"RET":-5.64
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 26 Oct 2018 ",
+		"Signal":-1,
+		"Shares":280,
+		"Open":17.95,
+		"Last":18.67,
+		"RET_BH":-4.54,
+		"RET":4.54
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":-1,
+		"Shares":40,
+		"Open":130.3,
+		"Last":134.2,
+		"RET_BH":2.85,
+		"RET":-2.85
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":-1,
+		"Shares":310,
+		"Open":16.51,
+		"Last":16.73,
+		"RET_BH":1.09,
+		"RET":-1.09
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":-1,
+		"Shares":1670,
+		"Open":3.000,
+		"Last":2.540,
+		"RET_BH":-16.2,
+		"RET":16.2
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":1,
+		"Shares":950,
+		"Open":5.310,
+		"Last":5.700,
+		"RET_BH":-2.70,
+		"RET":-2.70
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":-1,
+		"Shares":570,
+		"Open":8.850,
+		"Last":8.850,
+		"RET_BH":-0.450,
+		"RET":0.450
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":-1,
+		"Shares":260,
+		"Open":19.93,
+		"Last":19.73,
+		"RET_BH":-1.25,
+		"RET":1.25
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":-1,
+		"Shares":480,
+		"Open":10.57,
+		"Last":10.39,
+		"RET_BH":-2.35,
+		"RET":2.35
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":1,
+		"Shares":500,
+		"Open":10.18,
+		"Last":9.800,
+		"RET_BH":-3.54,
+		"RET":-3.54
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":-1,
+		"Shares":360,
+		"Open":14.23,
+		"Last":14.77,
+		"RET_BH":3.72,
+		"RET":-3.72
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":337.6,
+		"Last":332.7,
+		"RET_BH":-2.03,
+		"RET":2.03
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":-1,
+		"Shares":5560,
+		"Open":0.9000,
+		"Last":0.9100,
+		"RET_BH":-3.19,
+		"RET":3.19
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":21.67,
+		"Last":22.21,
+		"RET_BH":-2.26,
+		"RET":2.26
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":1,
+		"Shares":310,
+		"Open":16.36,
+		"Last":15.83,
+		"RET_BH":-3.71,
+		"RET":-3.71
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":1,
+		"Shares":4210,
+		"Open":1.190,
+		"Last":1.220,
+		"RET_BH":1.67,
+		"RET":1.67
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":-1,
+		"Shares":100,
+		"Open":50.43,
+		"Last":46.39,
+		"RET_BH":-8.34,
+		"RET":8.34
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":-1,
+		"Shares":1600,
+		"Open":3.140,
+		"Last":3.310,
+		"RET_BH":5.41,
+		"RET":-5.41
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":-1,
+		"Shares":1140,
+		"Open":4.420,
+		"Last":4.100,
+		"RET_BH":-6.39,
+		"RET":6.39
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":-1,
+		"Shares":650,
+		"Open":7.800,
+		"Last":7.690,
+		"RET_BH":-1.54,
+		"RET":1.54
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":-1,
+		"Shares":480,
+		"Open":10.56,
+		"Last":10.28,
+		"RET_BH":-2.84,
+		"RET":2.84
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 19 Oct 2018 ",
+		"Signal":-1,
+		"Shares":290,
+		"Open":17.63,
+		"Last":17.86,
+		"RET_BH":1.02,
+		"RET":-1.02
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":1,
+		"Shares":40,
+		"Open":134.2,
+		"Last":130.5,
+		"RET_BH":-3.36,
+		"RET":-3.36
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":-1,
+		"Shares":250,
+		"Open":20.05,
+		"Last":16.55,
+		"RET_BH":-17.9,
+		"RET":17.9
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":1,
+		"Shares":1690,
+		"Open":2.970,
+		"Last":3.030,
+		"RET_BH":-1.00,
+		"RET":-1.00
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":1,
+		"Shares":850,
+		"Open":5.890,
+		"Last":5.550,
+		"RET_BH":6.72,
+		"RET":6.72
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":1,
+		"Shares":570,
+		"Open":8.860,
+		"Last":8.890,
+		"RET_BH":0.112,
+		"RET":0.112
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":-1,
+		"Shares":260,
+		"Open":19.91,
+		"Last":19.98,
+		"RET_BH":-0.150,
+		"RET":0.150
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":1,
+		"Shares":430,
+		"Open":11.69,
+		"Last":10.64,
+		"RET_BH":8.98,
+		"RET":8.98
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":-1,
+		"Shares":480,
+		"Open":10.50,
+		"Last":10.16,
+		"RET_BH":1.91,
+		"RET":-1.91
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":-1,
+		"Shares":330,
+		"Open":15.27,
+		"Last":14.24,
+		"RET_BH":-7.17,
+		"RET":7.17
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":345.2,
+		"Last":339.6,
+		"RET_BH":-3.36,
+		"RET":3.36
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":-1,
+		"Shares":5320,
+		"Open":0.9404,
+		"Last":0.9400,
+		"RET_BH":-4.54,
+		"RET":4.54
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":21.20,
+		"Last":21.72,
+		"RET_BH":-1.31,
+		"RET":1.31
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":-1,
+		"Shares":300,
+		"Open":16.96,
+		"Last":16.44,
+		"RET_BH":-3.69,
+		"RET":3.69
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":1,
+		"Shares":4140,
+		"Open":1.210,
+		"Last":1.200,
+		"RET_BH":-3.23,
+		"RET":-3.23
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":-1,
+		"Shares":110,
+		"Open":49.04,
+		"Last":50.61,
+		"RET_BH":2.76,
+		"RET":-2.76
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":1,
+		"Shares":1480,
+		"Open":3.400,
+		"Last":3.140,
+		"RET_BH":-8.46,
+		"RET":-8.46
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":-1,
+		"Shares":1140,
+		"Open":4.420,
+		"Last":4.380,
+		"RET_BH":-1.57,
+		"RET":1.57
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":-1,
+		"Shares":610,
+		"Open":8.270,
+		"Last":7.810,
+		"RET_BH":-5.56,
+		"RET":5.56
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":1,
+		"Shares":480,
+		"Open":10.59,
+		"Last":10.58,
+		"RET_BH":-0.189,
+		"RET":-0.189
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 12 Oct 2018 ",
+		"Signal":-1,
+		"Shares":290,
+		"Open":17.75,
+		"Last":17.68,
+		"RET_BH":0.113,
+		"RET":-0.113
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":1,
+		"Shares":40,
+		"Open":164.5,
+		"Last":135.0,
+		"RET_BH":-16.4,
+		"RET":-16.4
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":-1,
+		"Shares":220,
+		"Open":23.00,
+		"Last":20.16,
+		"RET_BH":-12.2,
+		"RET":12.2
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":1,
+		"Shares":1670,
+		"Open":3.000,
+		"Last":3.000,
+		"RET_BH":-1.70,
+		"RET":-1.70
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":1,
+		"Shares":800,
+		"Open":6.260,
+		"Last":5.950,
+		"RET_BH":5.10,
+		"RET":5.10
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":1,
+		"Shares":560,
+		"Open":9.080,
+		"Last":8.900,
+		"RET_BH":-0.780,
+		"RET":-0.780
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":21.25,
+		"Last":20.01,
+		"RET_BH":-5.84,
+		"RET":5.84
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":1,
+		"Shares":420,
+		"Open":11.97,
+		"Last":11.69,
+		"RET_BH":-2.26,
+		"RET":-2.26
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":-1,
+		"Shares":420,
+		"Open":12.01,
+		"Last":9.970,
+		"RET_BH":-16.7,
+		"RET":16.7
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":-1,
+		"Shares":330,
+		"Open":15.48,
+		"Last":15.34,
+		"RET_BH":-0.712,
+		"RET":0.712
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":375.9,
+		"Last":351.4,
+		"RET_BH":-6.09,
+		"RET":6.09
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":-1,
+		"Shares":5110,
+		"Open":0.9799,
+		"Last":0.9847,
+		"RET_BH":-0.435,
+		"RET":0.435
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":1,
+		"Shares":250,
+		"Open":20.82,
+		"Last":21.44,
+		"RET_BH":-3.28,
+		"RET":-3.28
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":1,
+		"Shares":270,
+		"Open":18.97,
+		"Last":17.07,
+		"RET_BH":9.63,
+		"RET":9.63
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":1,
+		"Shares":3970,
+		"Open":1.260,
+		"Last":1.240,
+		"RET_BH":-2.36,
+		"RET":-2.36
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":-1,
+		"Shares":110,
+		"Open":49.09,
+		"Last":49.25,
+		"RET_BH":0.592,
+		"RET":-0.592
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":-1,
+		"Shares":1300,
+		"Open":3.850,
+		"Last":3.430,
+		"RET_BH":-9.26,
+		"RET":9.26
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":-1,
+		"Shares":1140,
+		"Open":4.400,
+		"Last":4.450,
+		"RET_BH":1.37,
+		"RET":-1.37
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":-1,
+		"Shares":560,
+		"Open":8.960,
+		"Last":8.270,
+		"RET_BH":-7.60,
+		"RET":7.60
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":1,
+		"Shares":460,
+		"Open":10.98,
+		"Last":10.60,
+		"RET_BH":3.55,
+		"RET":3.55
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 5 Oct 2018 ",
+		"Signal":1,
+		"Shares":260,
+		"Open":19.61,
+		"Last":17.66,
+		"RET_BH":10.1,
+		"RET":10.1
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":1,
+		"Shares":40,
+		"Open":150.3,
+		"Last":161.5,
+		"RET_BH":9.43,
+		"RET":9.43
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":-1,
+		"Shares":230,
+		"Open":22.45,
+		"Last":22.95,
+		"RET_BH":1.77,
+		"RET":-1.77
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":1,
+		"Shares":1450,
+		"Open":3.450,
+		"Last":2.950,
+		"RET_BH":-13.2,
+		"RET":-13.2
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":-1,
+		"Shares":790,
+		"Open":6.350,
+		"Last":6.270,
+		"RET_BH":-2.18,
+		"RET":2.18
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":-1,
+		"Shares":560,
+		"Open":9.090,
+		"Last":8.970,
+		"RET_BH":0.554,
+		"RET":-0.554
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":21.70,
+		"Last":21.25,
+		"RET_BH":-2.30,
+		"RET":2.30
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":1,
+		"Shares":430,
+		"Open":11.67,
+		"Last":11.96,
+		"RET_BH":1.96,
+		"RET":1.96
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":-1,
+		"Shares":390,
+		"Open":13.12,
+		"Last":11.97,
+		"RET_BH":9.66,
+		"RET":-9.66
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":-1,
+		"Shares":330,
+		"Open":15.29,
+		"Last":15.45,
+		"RET_BH":0.783,
+		"RET":-0.783
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":359.0,
+		"Last":374.1,
+		"RET_BH":3.58,
+		"RET":-3.58
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":-1,
+		"Shares":5260,
+		"Open":0.9520,
+		"Last":0.9890,
+		"RET_BH":1.96,
+		"RET":-1.96
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":1,
+		"Shares":250,
+		"Open":20.22,
+		"Last":20.76,
+		"RET_BH":-2.93,
+		"RET":-2.93
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":-1,
+		"Shares":270,
+		"Open":18.59,
+		"Last":18.89,
+		"RET_BH":1.02,
+		"RET":-1.02
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":1,
+		"Shares":3880,
+		"Open":1.290,
+		"Last":1.270,
+		"RET_BH":-3.05,
+		"RET":-3.05
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":-1,
+		"Shares":110,
+		"Open":49.69,
+		"Last":48.96,
+		"RET_BH":0.205,
+		"RET":-0.205
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":1,
+		"Shares":1580,
+		"Open":3.170,
+		"Last":3.780,
+		"RET_BH":20.0,
+		"RET":20.0
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":-1,
+		"Shares":1140,
+		"Open":4.410,
+		"Last":4.390,
+		"RET_BH":0.228,
+		"RET":-0.228
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":-1,
+		"Shares":550,
+		"Open":9.160,
+		"Last":8.950,
+		"RET_BH":-2.08,
+		"RET":2.08
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":-1,
+		"Shares":430,
+		"Open":11.72,
+		"Last":10.99,
+		"RET_BH":-7.88,
+		"RET":7.88
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 28 Sep 2018 ",
+		"Signal":-1,
+		"Shares":280,
+		"Open":18.10,
+		"Last":19.65,
+		"RET_BH":7.97,
+		"RET":-7.97
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":1,
+		"Shares":40,
+		"Open":152.0,
+		"Last":147.6,
+		"RET_BH":-3.38,
+		"RET":-3.38
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":21.40,
+		"Last":22.55,
+		"RET_BH":5.13,
+		"RET":-5.13
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":1,
+		"Shares":1640,
+		"Open":3.050,
+		"Last":3.400,
+		"RET_BH":11.5,
+		"RET":11.5
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":1,
+		"Shares":900,
+		"Open":5.600,
+		"Last":6.410,
+		"RET_BH":14.2,
+		"RET":14.2
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":1,
+		"Shares":580,
+		"Open":8.740,
+		"Last":9.020,
+		"RET_BH":-4.40,
+		"RET":-4.40
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":1,
+		"Shares":220,
+		"Open":23.35,
+		"Last":21.75,
+		"RET_BH":7.05,
+		"RET":7.05
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":1,
+		"Shares":440,
+		"Open":11.37,
+		"Last":11.73,
+		"RET_BH":3.17,
+		"RET":3.17
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":-1,
+		"Shares":450,
+		"Open":11.33,
+		"Last":13.25,
+		"RET_BH":17.0,
+		"RET":-17.0
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":-1,
+		"Shares":320,
+		"Open":15.63,
+		"Last":15.33,
+		"RET_BH":-2.29,
+		"RET":2.29
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":364.2,
+		"Last":361.2,
+		"RET_BH":-0.924,
+		"RET":0.924
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":-1,
+		"Shares":5320,
+		"Open":0.9400,
+		"Last":0.9700,
+		"RET_BH":0.0100,
+		"RET":-0.0100
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":1,
+		"Shares":360,
+		"Open":13.91,
+		"Last":20.17,
+		"RET_BH":45.3,
+		"RET":45.3
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":1,
+		"Shares":270,
+		"Open":19.00,
+		"Last":18.70,
+		"RET_BH":-1.58,
+		"RET":-1.58
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":1,
+		"Shares":3790,
+		"Open":1.320,
+		"Last":1.310,
+		"RET_BH":1.55,
+		"RET":1.55
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":-1,
+		"Shares":110,
+		"Open":48.01,
+		"Last":48.86,
+		"RET_BH":1.69,
+		"RET":-1.69
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":1,
+		"Shares":1580,
+		"Open":3.170,
+		"Last":3.150,
+		"RET_BH":-0.943,
+		"RET":-0.943
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":-1,
+		"Shares":1140,
+		"Open":4.390,
+		"Last":4.380,
+		"RET_BH":-0.905,
+		"RET":0.905
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":-1,
+		"Shares":550,
+		"Open":9.110,
+		"Last":9.140,
+		"RET_BH":0.329,
+		"RET":-0.329
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":1,
+		"Shares":390,
+		"Open":12.90,
+		"Last":11.93,
+		"RET_BH":7.52,
+		"RET":7.52
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 21 Sep 2018 ",
+		"Signal":1,
+		"Shares":290,
+		"Open":17.30,
+		"Last":18.20,
+		"RET_BH":5.51,
+		"RET":5.51
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":1,
+		"Shares":40,
+		"Open":142.9,
+		"Last":152.8,
+		"RET_BH":7.04,
+		"RET":7.04
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":-1,
+		"Shares":230,
+		"Open":22.50,
+		"Last":21.45,
+		"RET_BH":-4.03,
+		"RET":4.03
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":-1,
+		"Shares":1670,
+		"Open":3.000,
+		"Last":3.050,
+		"RET_BH":3.39,
+		"RET":-3.39
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":-1,
+		"Shares":680,
+		"Open":7.400,
+		"Last":5.615,
+		"RET_BH":-23.7,
+		"RET":23.7
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":1,
+		"Shares":620,
+		"Open":8.080,
+		"Last":8.640,
+		"RET_BH":-6.67,
+		"RET":-6.67
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":1,
+		"Shares":220,
+		"Open":23.15,
+		"Last":23.40,
+		"RET_BH":1.96,
+		"RET":1.96
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":1,
+		"Shares":450,
+		"Open":11.35,
+		"Last":11.37,
+		"RET_BH":0.353,
+		"RET":0.353
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":-1,
+		"Shares":430,
+		"Open":11.74,
+		"Last":11.32,
+		"RET_BH":-2.41,
+		"RET":2.41
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":-1,
+		"Shares":320,
+		"Open":15.89,
+		"Last":15.69,
+		"RET_BH":-0.633,
+		"RET":0.633
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":1,
+		"Shares":20,
+		"Open":352.3,
+		"Last":364.6,
+		"RET_BH":-4.55,
+		"RET":-4.55
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":-1,
+		"Shares":4860,
+		"Open":1.030,
+		"Last":0.9699,
+		"RET_BH":-5.84,
+		"RET":5.84
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":1,
+		"Shares":360,
+		"Open":14.05,
+		"Last":13.88,
+		"RET_BH":-1.14,
+		"RET":-1.14
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":-1,
+		"Shares":270,
+		"Open":18.63,
+		"Last":19.00,
+		"RET_BH":-1.99,
+		"RET":1.99
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":1,
+		"Shares":3740,
+		"Open":1.340,
+		"Last":1.290,
+		"RET_BH":-3.73,
+		"RET":-3.73
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":-1,
+		"Shares":110,
+		"Open":49.95,
+		"Last":48.05,
+		"RET_BH":-3.34,
+		"RET":3.34
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":1,
+		"Shares":1550,
+		"Open":3.240,
+		"Last":3.180,
+		"RET_BH":-1.85,
+		"RET":-1.85
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":-1,
+		"Shares":1000,
+		"Open":5.030,
+		"Last":4.420,
+		"RET_BH":-11.8,
+		"RET":11.8
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":-1,
+		"Shares":560,
+		"Open":9.080,
+		"Last":9.110,
+		"RET_BH":0.552,
+		"RET":-0.552
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":-1,
+		"Shares":400,
+		"Open":12.66,
+		"Last":12.90,
+		"RET_BH":1.98,
+		"RET":-1.98
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 14 Sep 2018 ",
+		"Signal":-1,
+		"Shares":180,
+		"Open":27.80,
+		"Last":17.25,
+		"RET_BH":-37.4,
+		"RET":37.4
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":1,
+		"Shares":40,
+		"Open":137.5,
+		"Last":142.7,
+		"RET_BH":3.38,
+		"RET":3.38
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":1,
+		"Shares":210,
+		"Open":24.50,
+		"Last":22.35,
+		"RET_BH":-9.15,
+		"RET":-9.15
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":-1,
+		"Shares":1570,
+		"Open":3.200,
+		"Last":2.950,
+		"RET_BH":-7.81,
+		"RET":7.81
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":-1,
+		"Shares":640,
+		"Open":7.820,
+		"Last":7.360,
+		"RET_BH":-6.00,
+		"RET":6.00
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":-1,
+		"Shares":520,
+		"Open":9.680,
+		"Last":8.100,
+		"RET_BH":-16.2,
+		"RET":16.2
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":1,
+		"Shares":230,
+		"Open":22.45,
+		"Last":22.95,
+		"RET_BH":2.00,
+		"RET":2.00
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":1,
+		"Shares":440,
+		"Open":11.42,
+		"Last":11.33,
+		"RET_BH":-0.788,
+		"RET":-0.788
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":-1,
+		"Shares":410,
+		"Open":12.44,
+		"Last":11.60,
+		"RET_BH":-8.08,
+		"RET":8.08
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":-1,
+		"Shares":320,
+		"Open":16.02,
+		"Last":15.79,
+		"RET_BH":-1.37,
+		"RET":1.37
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":1,
+		"Shares":20,
+		"Open":366.5,
+		"Last":348.7,
+		"RET_BH":5.17,
+		"RET":5.17
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":-1,
+		"Shares":4770,
+		"Open":1.050,
+		"Last":1.030,
+		"RET_BH":-2.83,
+		"RET":2.83
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":1,
+		"Shares":360,
+		"Open":14.19,
+		"Last":14.04,
+		"RET_BH":-1.27,
+		"RET":-1.27
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":1,
+		"Shares":250,
+		"Open":20.61,
+		"Last":18.63,
+		"RET_BH":10.7,
+		"RET":10.7
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":1,
+		"Shares":3760,
+		"Open":1.330,
+		"Last":1.340,
+		"RET_BH":0,
+		"RET":0
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":1,
+		"Shares":100,
+		"Open":52.71,
+		"Last":49.71,
+		"RET_BH":5.66,
+		"RET":5.66
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":1,
+		"Shares":1430,
+		"Open":3.500,
+		"Last":3.240,
+		"RET_BH":-3.86,
+		"RET":-3.86
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":-1,
+		"Shares":970,
+		"Open":5.160,
+		"Last":5.010,
+		"RET_BH":-2.34,
+		"RET":2.34
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":-1,
+		"Shares":520,
+		"Open":9.700,
+		"Last":9.060,
+		"RET_BH":-6.50,
+		"RET":6.50
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":1,
+		"Shares":400,
+		"Open":12.71,
+		"Last":12.65,
+		"RET_BH":-0.717,
+		"RET":-0.717
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 7 Sep 2018 ",
+		"Signal":-1,
+		"Shares":180,
+		"Open":28.85,
+		"Last":27.55,
+		"RET_BH":-4.34,
+		"RET":4.34
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":1,
+		"Shares":40,
+		"Open":134.4,
+		"Last":138.0,
+		"RET_BH":3.60,
+		"RET":3.60
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":1,
+		"Shares":220,
+		"Open":23.35,
+		"Last":24.60,
+		"RET_BH":6.26,
+		"RET":6.26
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":-1,
+		"Shares":1480,
+		"Open":3.400,
+		"Last":3.200,
+		"RET_BH":-5.88,
+		"RET":5.88
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":-1,
+		"Shares":650,
+		"Open":7.740,
+		"Last":7.830,
+		"RET_BH":1.69,
+		"RET":-1.69
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":1,
+		"Shares":560,
+		"Open":9.010,
+		"Last":9.670,
+		"RET_BH":8.77,
+		"RET":8.77
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":1,
+		"Shares":240,
+		"Open":21.35,
+		"Last":22.50,
+		"RET_BH":5.88,
+		"RET":5.88
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":1,
+		"Shares":450,
+		"Open":11.29,
+		"Last":11.42,
+		"RET_BH":1.24,
+		"RET":1.24
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":-1,
+		"Shares":400,
+		"Open":12.62,
+		"Last":12.62,
+		"RET_BH":0.718,
+		"RET":-0.718
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":-1,
+		"Shares":310,
+		"Open":16.17,
+		"Last":16.01,
+		"RET_BH":-0.867,
+		"RET":0.867
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":1,
+		"Shares":20,
+		"Open":367.1,
+		"Last":367.7,
+		"RET_BH":2.47,
+		"RET":2.47
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":-1,
+		"Shares":4910,
+		"Open":1.020,
+		"Last":1.060,
+		"RET_BH":3.92,
+		"RET":-3.92
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":1,
+		"Shares":350,
+		"Open":14.45,
+		"Last":14.22,
+		"RET_BH":1.18,
+		"RET":1.18
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":-1,
+		"Shares":250,
+		"Open":20.78,
+		"Last":20.87,
+		"RET_BH":1.56,
+		"RET":-1.56
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":1,
+		"Shares":3650,
+		"Open":1.370,
+		"Last":1.340,
+		"RET_BH":-0.741,
+		"RET":-0.741
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":1,
+		"Shares":100,
+		"Open":54.60,
+		"Last":52.69,
+		"RET_BH":2.80,
+		"RET":2.80
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":1,
+		"Shares":1580,
+		"Open":3.180,
+		"Last":3.370,
+		"RET_BH":6.31,
+		"RET":6.31
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":-1,
+		"Shares":1140,
+		"Open":4.400,
+		"Last":5.130,
+		"RET_BH":16.9,
+		"RET":-16.9
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":-1,
+		"Shares":550,
+		"Open":9.250,
+		"Last":9.690,
+		"RET_BH":5.44,
+		"RET":-5.44
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":-1,
+		"Shares":450,
+		"Open":11.20,
+		"Last":12.56,
+		"RET_BH":-12.6,
+		"RET":12.6
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 31 Aug 2018 ",
+		"Signal":1,
+		"Shares":180,
+		"Open":29.15,
+		"Last":28.80,
+		"RET_BH":-0.346,
+		"RET":-0.346
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":1,
+		"Shares":40,
+		"Open":130.7,
+		"Last":133.2,
+		"RET_BH":2.30,
+		"RET":2.30
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":1,
+		"Shares":230,
+		"Open":22.05,
+		"Last":23.15,
+		"RET_BH":4.99,
+		"RET":4.99
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":1,
+		"Shares":1670,
+		"Open":3.000,
+		"Last":3.400,
+		"RET_BH":-9.68,
+		"RET":-9.68
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":1,
+		"Shares":640,
+		"Open":7.890,
+		"Last":7.700,
+		"RET_BH":1.41,
+		"RET":1.41
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":1,
+		"Shares":690,
+		"Open":7.350,
+		"Last":8.890,
+		"RET_BH":20.5,
+		"RET":20.5
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":1,
+		"Shares":250,
+		"Open":20.35,
+		"Last":21.25,
+		"RET_BH":5.20,
+		"RET":5.20
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":1,
+		"Shares":460,
+		"Open":11.08,
+		"Last":11.28,
+		"RET_BH":2.08,
+		"RET":2.08
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":-1,
+		"Shares":420,
+		"Open":12.15,
+		"Last":12.53,
+		"RET_BH":4.24,
+		"RET":-4.24
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":-1,
+		"Shares":310,
+		"Open":16.41,
+		"Last":16.15,
+		"RET_BH":-1.28,
+		"RET":1.28
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":314.6,
+		"Last":358.8,
+		"RET_BH":13.3,
+		"RET":-13.3
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":-1,
+		"Shares":4770,
+		"Open":1.050,
+		"Last":1.020,
+		"RET_BH":-2.86,
+		"RET":2.86
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":-1,
+		"Shares":390,
+		"Open":13.10,
+		"Last":14.39,
+		"RET_BH":10.4,
+		"RET":-10.4
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":1,
+		"Shares":270,
+		"Open":18.99,
+		"Last":20.55,
+		"RET_BH":-8.39,
+		"RET":-8.39
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":1,
+		"Shares":4070,
+		"Open":1.230,
+		"Last":1.350,
+		"RET_BH":8.00,
+		"RET":8.00
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":-1,
+		"Shares":100,
+		"Open":51.37,
+		"Last":54.21,
+		"RET_BH":5.16,
+		"RET":-5.16
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":1,
+		"Shares":1720,
+		"Open":2.910,
+		"Last":3.170,
+		"RET_BH":9.31,
+		"RET":9.31
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":-1,
+		"Shares":1060,
+		"Open":4.730,
+		"Last":4.390,
+		"RET_BH":-6.60,
+		"RET":6.60
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":-1,
+		"Shares":550,
+		"Open":9.140,
+		"Last":9.190,
+		"RET_BH":0.989,
+		"RET":-0.989
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":1,
+		"Shares":450,
+		"Open":11.23,
+		"Last":11.15,
+		"RET_BH":3.38,
+		"RET":3.38
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 24 Aug 2018 ",
+		"Signal":1,
+		"Shares":180,
+		"Open":28.30,
+		"Last":28.90,
+		"RET_BH":2.48,
+		"RET":2.48
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":-1,
+		"Shares":40,
+		"Open":129.3,
+		"Last":130.3,
+		"RET_BH":-0.556,
+		"RET":0.556
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":1,
+		"Shares":230,
+		"Open":22.20,
+		"Last":22.05,
+		"RET_BH":-0.899,
+		"RET":-0.899
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":-1,
+		"Shares":1480,
+		"Open":3.400,
+		"Last":3.100,
+		"RET_BH":-7.46,
+		"RET":7.46
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":-1,
+		"Shares":610,
+		"Open":8.250,
+		"Last":7.810,
+		"RET_BH":-3.94,
+		"RET":3.94
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":1,
+		"Shares":720,
+		"Open":7.040,
+		"Last":7.380,
+		"RET_BH":3.94,
+		"RET":3.94
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":-1,
+		"Shares":270,
+		"Open":19.10,
+		"Last":20.20,
+		"RET_BH":-5.48,
+		"RET":5.48
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":1,
+		"Shares":450,
+		"Open":11.26,
+		"Last":11.05,
+		"RET_BH":-1.34,
+		"RET":-1.34
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":-1,
+		"Shares":420,
+		"Open":12.15,
+		"Last":12.02,
+		"RET_BH":-1.07,
+		"RET":1.07
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":-1,
+		"Shares":300,
+		"Open":16.79,
+		"Last":16.36,
+		"RET_BH":-2.39,
+		"RET":2.39
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":1,
+		"Shares":20,
+		"Open":339.9,
+		"Last":316.8,
+		"RET_BH":8.41,
+		"RET":8.41
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":-1,
+		"Shares":4630,
+		"Open":1.080,
+		"Last":1.050,
+		"RET_BH":-4.55,
+		"RET":4.55
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":-1,
+		"Shares":340,
+		"Open":14.82,
+		"Last":13.03,
+		"RET_BH":-12.7,
+		"RET":12.7
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":-1,
+		"Shares":260,
+		"Open":19.27,
+		"Last":18.96,
+		"RET_BH":-1.61,
+		"RET":1.61
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":1,
+		"Shares":4210,
+		"Open":1.190,
+		"Last":1.250,
+		"RET_BH":2.46,
+		"RET":2.46
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":1,
+		"Shares":100,
+		"Open":54.62,
+		"Last":51.55,
+		"RET_BH":-6.34,
+		"RET":-6.34
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":-1,
+		"Shares":1670,
+		"Open":3.000,
+		"Last":2.900,
+		"RET_BH":2.36,
+		"RET":-2.36
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":-1,
+		"Shares":1020,
+		"Open":4.940,
+		"Last":4.700,
+		"RET_BH":-4.86,
+		"RET":4.86
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":-1,
+		"Shares":520,
+		"Open":9.670,
+		"Last":9.100,
+		"RET_BH":-5.90,
+		"RET":5.90
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":1,
+		"Shares":440,
+		"Open":11.40,
+		"Last":11.54,
+		"RET_BH":-1.85,
+		"RET":-1.85
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 17 Aug 2018 ",
+		"Signal":1,
+		"Shares":190,
+		"Open":26.90,
+		"Last":28.20,
+		"RET_BH":4.83,
+		"RET":4.83
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":1,
+		"Shares":50,
+		"Open":121.4,
+		"Last":129.5,
+		"RET_BH":7.17,
+		"RET":7.17
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":1,
+		"Shares":240,
+		"Open":21.65,
+		"Last":22.25,
+		"RET_BH":3.97,
+		"RET":3.97
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":1,
+		"Shares":1540,
+		"Open":3.250,
+		"Last":3.350,
+		"RET_BH":4.69,
+		"RET":4.69
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":1,
+		"Shares":550,
+		"Open":9.180,
+		"Last":8.130,
+		"RET_BH":11.4,
+		"RET":11.4
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":-1,
+		"Shares":660,
+		"Open":7.580,
+		"Last":7.100,
+		"RET_BH":-6.33,
+		"RET":6.33
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":1,
+		"Shares":270,
+		"Open":19.05,
+		"Last":19.15,
+		"RET_BH":-0.789,
+		"RET":-0.789
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":1,
+		"Shares":450,
+		"Open":11.25,
+		"Last":11.20,
+		"RET_BH":-0.444,
+		"RET":-0.444
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":-1,
+		"Shares":390,
+		"Open":12.83,
+		"Last":12.15,
+		"RET_BH":-4.86,
+		"RET":4.86
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":-1,
+		"Shares":300,
+		"Open":16.76,
+		"Last":16.76,
+		"RET_BH":-0.238,
+		"RET":0.238
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":1,
+		"Shares":20,
+		"Open":342.9,
+		"Last":345.9,
+		"RET_BH":-0.810,
+		"RET":-0.810
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":-1,
+		"Shares":4550,
+		"Open":1.100,
+		"Last":1.100,
+		"RET_BH":2.80,
+		"RET":-2.80
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":-1,
+		"Shares":350,
+		"Open":14.65,
+		"Last":14.92,
+		"RET_BH":-1.97,
+		"RET":1.97
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":1,
+		"Shares":290,
+		"Open":17.45,
+		"Last":19.27,
+		"RET_BH":10.6,
+		"RET":10.6
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":1,
+		"Shares":4550,
+		"Open":1.100,
+		"Last":1.220,
+		"RET_BH":6.09,
+		"RET":6.09
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":-1,
+		"Shares":80,
+		"Open":63.14,
+		"Last":55.04,
+		"RET_BH":-12.8,
+		"RET":12.8
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":-1,
+		"Shares":1740,
+		"Open":2.890,
+		"Last":2.970,
+		"RET_BH":2.77,
+		"RET":-2.77
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":-1,
+		"Shares":810,
+		"Open":6.180,
+		"Last":4.940,
+		"RET_BH":-20.7,
+		"RET":20.7
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":-1,
+		"Shares":550,
+		"Open":9.190,
+		"Last":9.670,
+		"RET_BH":-5.45,
+		"RET":5.45
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":-1,
+		"Shares":510,
+		"Open":9.900,
+		"Last":11.33,
+		"RET_BH":-14.1,
+		"RET":14.1
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 10 Aug 2018 ",
+		"Signal":-1,
+		"Shares":200,
+		"Open":26.10,
+		"Last":26.90,
+		"RET_BH":2.48,
+		"RET":-2.48
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":-1,
+		"Shares":50,
+		"Open":119.4,
+		"Last":120.9,
+		"RET_BH":-1.45,
+		"RET":1.45
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":-1,
+		"Shares":250,
+		"Open":20.45,
+		"Last":21.40,
+		"RET_BH":4.90,
+		"RET":-4.90
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":-1,
+		"Shares":1000,
+		"Open":5.000,
+		"Last":3.200,
+		"RET_BH":-34.0,
+		"RET":34.0
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":1,
+		"Shares":660,
+		"Open":7.650,
+		"Last":9.180,
+		"RET_BH":19.8,
+		"RET":19.8
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":-1,
+		"Shares":660,
+		"Open":7.680,
+		"Last":7.580,
+		"RET_BH":-1.04,
+		"RET":1.04
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":1,
+		"Shares":270,
+		"Open":18.70,
+		"Last":19.00,
+		"RET_BH":-0.529,
+		"RET":-0.529
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":1,
+		"Shares":450,
+		"Open":11.26,
+		"Last":11.25,
+		"RET_BH":0.357,
+		"RET":0.357
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":-1,
+		"Shares":390,
+		"Open":13.08,
+		"Last":12.77,
+		"RET_BH":-2.07,
+		"RET":2.07
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":-1,
+		"Shares":310,
+		"Open":16.66,
+		"Last":16.80,
+		"RET_BH":0.901,
+		"RET":-0.901
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":351.9,
+		"Last":343.1,
+		"RET_BH":-3.41,
+		"RET":3.41
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":-1,
+		"Shares":4630,
+		"Open":1.080,
+		"Last":1.070,
+		"RET_BH":-2.73,
+		"RET":2.73
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":-1,
+		"Shares":330,
+		"Open":15.33,
+		"Last":15.22,
+		"RET_BH":-1.43,
+		"RET":1.43
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":-1,
+		"Shares":320,
+		"Open":16.00,
+		"Last":17.42,
+		"RET_BH":8.20,
+		"RET":-8.20
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":1,
+		"Shares":3910,
+		"Open":1.280,
+		"Last":1.150,
+		"RET_BH":-10.9,
+		"RET":-10.9
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":-1,
+		"Shares":90,
+		"Open":62.37,
+		"Last":63.14,
+		"RET_BH":2.12,
+		"RET":-2.12
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":-1,
+		"Shares":1760,
+		"Open":2.850,
+		"Last":2.890,
+		"RET_BH":1.40,
+		"RET":-1.40
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":-1,
+		"Shares":810,
+		"Open":6.220,
+		"Last":6.230,
+		"RET_BH":-0.796,
+		"RET":0.796
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":-1,
+		"Shares":620,
+		"Open":8.120,
+		"Last":9.170,
+		"RET_BH":-12.8,
+		"RET":12.8
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":-1,
+		"Shares":520,
+		"Open":9.650,
+		"Last":9.930,
+		"RET_BH":-2.37,
+		"RET":2.37
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 3 Aug 2018 ",
+		"Signal":1,
+		"Shares":210,
+		"Open":23.85,
+		"Last":26.25,
+		"RET_BH":9.60,
+		"RET":9.60
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":-1,
+		"Shares":40,
+		"Open":133.0,
+		"Last":119.1,
+		"RET_BH":-10.6,
+		"RET":10.6
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":21.50,
+		"Last":20.40,
+		"RET_BH":-5.56,
+		"RET":5.56
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":-1,
+		"Shares":990,
+		"Open":5.100,
+		"Last":4.850,
+		"RET_BH":-4.90,
+		"RET":4.90
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":1,
+		"Shares":610,
+		"Open":8.280,
+		"Last":7.660,
+		"RET_BH":-7.26,
+		"RET":-7.26
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":1,
+		"Shares":640,
+		"Open":7.900,
+		"Last":7.660,
+		"RET_BH":3.04,
+		"RET":3.04
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":1,
+		"Shares":240,
+		"Open":21.00,
+		"Last":18.90,
+		"RET_BH":10.0,
+		"RET":10.0
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":1,
+		"Shares":450,
+		"Open":11.34,
+		"Last":11.21,
+		"RET_BH":-1.15,
+		"RET":-1.15
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":-1,
+		"Shares":390,
+		"Open":12.96,
+		"Last":13.04,
+		"RET_BH":0.578,
+		"RET":-0.578
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":-1,
+		"Shares":300,
+		"Open":16.95,
+		"Last":16.65,
+		"RET_BH":-1.65,
+		"RET":1.65
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":1,
+		"Shares":20,
+		"Open":359.1,
+		"Last":355.2,
+		"RET_BH":-1.62,
+		"RET":-1.62
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":-1,
+		"Shares":4680,
+		"Open":1.070,
+		"Last":1.100,
+		"RET_BH":3.77,
+		"RET":-3.77
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":1,
+		"Shares":300,
+		"Open":16.71,
+		"Last":15.44,
+		"RET_BH":8.31,
+		"RET":8.31
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":1,
+		"Shares":400,
+		"Open":12.70,
+		"Last":16.10,
+		"RET_BH":26.8,
+		"RET":26.8
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":1,
+		"Shares":3910,
+		"Open":1.280,
+		"Last":1.290,
+		"RET_BH":1.57,
+		"RET":1.57
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":-1,
+		"Shares":90,
+		"Open":61.25,
+		"Last":61.83,
+		"RET_BH":1.26,
+		"RET":-1.26
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":-1,
+		"Shares":1660,
+		"Open":3.030,
+		"Last":2.850,
+		"RET_BH":-6.56,
+		"RET":6.56
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":-1,
+		"Shares":740,
+		"Open":6.810,
+		"Last":6.280,
+		"RET_BH":-7.92,
+		"RET":7.92
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":-1,
+		"Shares":600,
+		"Open":8.460,
+		"Last":8.130,
+		"RET_BH":4.13,
+		"RET":-4.13
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":-1,
+		"Shares":500,
+		"Open":10.00,
+		"Last":9.700,
+		"RET_BH":1.82,
+		"RET":-1.82
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 27 Jul 2018 ",
+		"Signal":-1,
+		"Shares":180,
+		"Open":28.65,
+		"Last":23.95,
+		"RET_BH":-16.7,
+		"RET":16.7
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":1,
+		"Shares":40,
+		"Open":139.6,
+		"Last":133.3,
+		"RET_BH":4.38,
+		"RET":4.38
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":20.90,
+		"Last":21.60,
+		"RET_BH":3.10,
+		"RET":-3.10
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":-1,
+		"Shares":910,
+		"Open":5.500,
+		"Last":5.100,
+		"RET_BH":-8.11,
+		"RET":8.11
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":1,
+		"Shares":600,
+		"Open":8.350,
+		"Last":8.260,
+		"RET_BH":-0.721,
+		"RET":-0.721
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":1,
+		"Shares":630,
+		"Open":7.950,
+		"Last":7.900,
+		"RET_BH":1.25,
+		"RET":1.25
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":20.85,
+		"Last":21.00,
+		"RET_BH":1.21,
+		"RET":-1.21
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":1,
+		"Shares":430,
+		"Open":11.65,
+		"Last":11.34,
+		"RET_BH":-2.74,
+		"RET":-2.74
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":-1,
+		"Shares":350,
+		"Open":14.38,
+		"Last":12.97,
+		"RET_BH":-8.95,
+		"RET":8.95
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":-1,
+		"Shares":310,
+		"Open":16.15,
+		"Last":16.93,
+		"RET_BH":-2.14,
+		"RET":2.14
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":399.0,
+		"Last":361.0,
+		"RET_BH":-8.78,
+		"RET":8.78
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":-1,
+		"Shares":4320,
+		"Open":1.160,
+		"Last":1.060,
+		"RET_BH":-10.2,
+		"RET":10.2
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":1,
+		"Shares":290,
+		"Open":17.52,
+		"Last":16.84,
+		"RET_BH":-3.55,
+		"RET":-3.55
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":1,
+		"Shares":400,
+		"Open":12.66,
+		"Last":12.70,
+		"RET_BH":1.44,
+		"RET":1.44
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":1,
+		"Shares":3880,
+		"Open":1.290,
+		"Last":1.270,
+		"RET_BH":-1.55,
+		"RET":-1.55
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":1,
+		"Shares":90,
+		"Open":61.39,
+		"Last":61.06,
+		"RET_BH":1.41,
+		"RET":1.41
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":-1,
+		"Shares":1520,
+		"Open":3.290,
+		"Last":3.050,
+		"RET_BH":-6.73,
+		"RET":6.73
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":-1,
+		"Shares":710,
+		"Open":7.090,
+		"Last":6.820,
+		"RET_BH":4.08,
+		"RET":-4.08
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":-1,
+		"Shares":620,
+		"Open":8.080,
+		"Last":8.480,
+		"RET_BH":5.47,
+		"RET":-5.47
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":1,
+		"Shares":520,
+		"Open":9.630,
+		"Last":9.880,
+		"RET_BH":5.78,
+		"RET":5.78
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 20 Jul 2018 ",
+		"Signal":-1,
+		"Shares":170,
+		"Open":29.85,
+		"Last":28.75,
+		"RET_BH":-3.52,
+		"RET":3.52
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":-1,
+		"Shares":40,
+		"Open":141.0,
+		"Last":139.4,
+		"RET_BH":-0.0650,
+		"RET":0.0650
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":21.20,
+		"Last":20.95,
+		"RET_BH":-0.946,
+		"RET":0.946
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":1,
+		"Shares":880,
+		"Open":5.700,
+		"Last":5.550,
+		"RET_BH":-0.893,
+		"RET":-0.893
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":-1,
+		"Shares":590,
+		"Open":8.520,
+		"Last":8.320,
+		"RET_BH":2.12,
+		"RET":-2.12
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":1,
+		"Shares":580,
+		"Open":8.650,
+		"Last":8.000,
+		"RET_BH":7.09,
+		"RET":7.09
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":1,
+		"Shares":250,
+		"Open":20.30,
+		"Last":20.75,
+		"RET_BH":-2.22,
+		"RET":-2.22
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":1,
+		"Shares":430,
+		"Open":11.64,
+		"Last":11.66,
+		"RET_BH":0.0860,
+		"RET":0.0860
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":-1,
+		"Shares":330,
+		"Open":15.31,
+		"Last":14.24,
+		"RET_BH":-6.50,
+		"RET":6.50
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":-1,
+		"Shares":290,
+		"Open":17.72,
+		"Last":17.30,
+		"RET_BH":2.37,
+		"RET":-2.37
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":416.0,
+		"Last":395.8,
+		"RET_BH":-3.05,
+		"RET":3.05
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":-1,
+		"Shares":4430,
+		"Open":1.130,
+		"Last":1.180,
+		"RET_BH":1.72,
+		"RET":-1.72
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":1,
+		"Shares":280,
+		"Open":17.96,
+		"Last":17.46,
+		"RET_BH":-2.13,
+		"RET":-2.13
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":1,
+		"Shares":430,
+		"Open":11.83,
+		"Last":12.52,
+		"RET_BH":6.19,
+		"RET":6.19
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":-1,
+		"Shares":3880,
+		"Open":1.290,
+		"Last":1.290,
+		"RET_BH":0,
+		"RET":0
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":1,
+		"Shares":80,
+		"Open":62.65,
+		"Last":61.93,
+		"RET_BH":-0.242,
+		"RET":-0.242
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":-1,
+		"Shares":1520,
+		"Open":3.290,
+		"Last":3.270,
+		"RET_BH":-0.608,
+		"RET":0.608
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":-1,
+		"Shares":800,
+		"Open":6.250,
+		"Last":7.110,
+		"RET_BH":14.1,
+		"RET":-14.1
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":-1,
+		"Shares":620,
+		"Open":8.090,
+		"Last":8.040,
+		"RET_BH":-0.372,
+		"RET":0.372
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":-1,
+		"Shares":600,
+		"Open":8.450,
+		"Last":9.340,
+		"RET_BH":10.7,
+		"RET":-10.7
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 13 Jul 2018 ",
+		"Signal":-1,
+		"Shares":170,
+		"Open":30.75,
+		"Last":29.80,
+		"RET_BH":2.46,
+		"RET":-2.46
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":1,
+		"Shares":40,
+		"Open":132.0,
+		"Last":139.3,
+		"RET_BH":5.41,
+		"RET":5.41
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":1,
+		"Shares":230,
+		"Open":22.15,
+		"Last":21.15,
+		"RET_BH":5.16,
+		"RET":5.16
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":1,
+		"Shares":870,
+		"Open":5.800,
+		"Last":5.600,
+		"RET_BH":-4.27,
+		"RET":-4.27
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":-1,
+		"Shares":630,
+		"Open":8.020,
+		"Last":8.500,
+		"RET_BH":5.72,
+		"RET":-5.72
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":-1,
+		"Shares":610,
+		"Open":8.270,
+		"Last":8.610,
+		"RET_BH":-3.49,
+		"RET":3.49
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":-1,
+		"Shares":270,
+		"Open":18.80,
+		"Last":20.30,
+		"RET_BH":-7.12,
+		"RET":7.12
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":1,
+		"Shares":450,
+		"Open":11.30,
+		"Last":11.65,
+		"RET_BH":2.55,
+		"RET":2.55
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":-1,
+		"Shares":330,
+		"Open":15.54,
+		"Last":15.23,
+		"RET_BH":-3.30,
+		"RET":3.30
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":-1,
+		"Shares":310,
+		"Open":16.42,
+		"Last":17.72,
+		"RET_BH":7.59,
+		"RET":-7.59
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":385.5,
+		"Last":408.3,
+		"RET_BH":4.30,
+		"RET":-4.30
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":-1,
+		"Shares":4280,
+		"Open":1.170,
+		"Last":1.160,
+		"RET_BH":-0.855,
+		"RET":0.855
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":-1,
+		"Shares":330,
+		"Open":15.16,
+		"Last":17.84,
+		"RET_BH":-16.8,
+		"RET":16.8
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":-1,
+		"Shares":430,
+		"Open":11.65,
+		"Last":11.79,
+		"RET_BH":-1.55,
+		"RET":1.55
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":-1,
+		"Shares":3850,
+		"Open":1.300,
+		"Last":1.290,
+		"RET_BH":-0.769,
+		"RET":0.769
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":-1,
+		"Shares":90,
+		"Open":59.41,
+		"Last":62.08,
+		"RET_BH":-2.70,
+		"RET":2.70
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":-1,
+		"Shares":1620,
+		"Open":3.100,
+		"Last":3.290,
+		"RET_BH":5.45,
+		"RET":-5.45
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":-1,
+		"Shares":820,
+		"Open":6.150,
+		"Last":6.230,
+		"RET_BH":1.63,
+		"RET":-1.63
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":-1,
+		"Shares":630,
+		"Open":7.980,
+		"Last":8.070,
+		"RET_BH":-0.124,
+		"RET":0.124
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":1,
+		"Shares":780,
+		"Open":6.430,
+		"Last":8.440,
+		"RET_BH":32.5,
+		"RET":32.5
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 6 Jul 2018 ",
+		"Signal":-1,
+		"Shares":180,
+		"Open":28.40,
+		"Last":30.55,
+		"RET_BH":-6.45,
+		"RET":6.45
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":-1,
+		"Shares":40,
+		"Open":143.4,
+		"Last":132.2,
+		"RET_BH":-5.81,
+		"RET":5.81
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":-1,
+		"Shares":210,
+		"Open":23.85,
+		"Last":22.30,
+		"RET_BH":-7.08,
+		"RET":7.08
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":1,
+		"Shares":980,
+		"Open":5.150,
+		"Last":5.850,
+		"RET_BH":13.6,
+		"RET":13.6
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":1,
+		"Shares":600,
+		"Open":8.460,
+		"Last":8.040,
+		"RET_BH":5.30,
+		"RET":5.30
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":1,
+		"Shares":570,
+		"Open":8.790,
+		"Last":8.320,
+		"RET_BH":-5.35,
+		"RET":-5.35
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":-1,
+		"Shares":230,
+		"Open":21.80,
+		"Last":18.95,
+		"RET_BH":-14.3,
+		"RET":14.3
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":1,
+		"Shares":450,
+		"Open":11.25,
+		"Last":11.36,
+		"RET_BH":1.61,
+		"RET":1.61
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":-1,
+		"Shares":300,
+		"Open":16.97,
+		"Last":15.75,
+		"RET_BH":-8.64,
+		"RET":8.64
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":-1,
+		"Shares":300,
+		"Open":17.22,
+		"Last":16.47,
+		"RET_BH":-4.69,
+		"RET":4.69
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":1,
+		"Shares":20,
+		"Open":404.7,
+		"Last":391.4,
+		"RET_BH":-4.78,
+		"RET":-4.78
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":-1,
+		"Shares":4430,
+		"Open":1.130,
+		"Last":1.170,
+		"RET_BH":5.41,
+		"RET":-5.41
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":-1,
+		"Shares":310,
+		"Open":16.28,
+		"Last":15.27,
+		"RET_BH":-6.49,
+		"RET":6.49
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":-1,
+		"Shares":420,
+		"Open":12.11,
+		"Last":11.61,
+		"RET_BH":4.29,
+		"RET":-4.29
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":-1,
+		"Shares":3450,
+		"Open":1.450,
+		"Last":1.300,
+		"RET_BH":-11.0,
+		"RET":11.0
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":-1,
+		"Shares":90,
+		"Open":61.47,
+		"Last":60.45,
+		"RET_BH":1.82,
+		"RET":-1.82
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":-1,
+		"Shares":1500,
+		"Open":3.340,
+		"Last":3.120,
+		"RET_BH":-7.97,
+		"RET":7.97
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":-1,
+		"Shares":800,
+		"Open":6.290,
+		"Last":6.130,
+		"RET_BH":-2.23,
+		"RET":2.23
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":-1,
+		"Shares":620,
+		"Open":8.120,
+		"Last":8.080,
+		"RET_BH":-0.493,
+		"RET":0.493
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":1,
+		"Shares":920,
+		"Open":5.480,
+		"Last":6.370,
+		"RET_BH":16.2,
+		"RET":16.2
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 29 Jun 2018 ",
+		"Signal":-1,
+		"Shares":180,
+		"Open":29.40,
+		"Last":28.70,
+		"RET_BH":2.55,
+		"RET":-2.55
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":1,
+		"Shares":50,
+		"Open":101.7,
+		"Last":140.3,
+		"RET_BH":37.2,
+		"RET":37.2
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":1,
+		"Shares":220,
+		"Open":22.95,
+		"Last":24.00,
+		"RET_BH":3.67,
+		"RET":3.67
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":-1,
+		"Shares":1060,
+		"Open":4.750,
+		"Last":5.150,
+		"RET_BH":-8.42,
+		"RET":8.42
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":-1,
+		"Shares":580,
+		"Open":8.630,
+		"Last":8.490,
+		"RET_BH":2.41,
+		"RET":-2.41
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":-1,
+		"Shares":460,
+		"Open":11.07,
+		"Last":8.790,
+		"RET_BH":-20.6,
+		"RET":20.6
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":21.55,
+		"Last":22.10,
+		"RET_BH":-7.72,
+		"RET":7.72
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":1,
+		"Shares":450,
+		"Open":11.24,
+		"Last":11.18,
+		"RET_BH":-0.799,
+		"RET":-0.799
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":-1,
+		"Shares":310,
+		"Open":16.31,
+		"Last":17.24,
+		"RET_BH":5.19,
+		"RET":-5.19
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":1,
+		"Shares":290,
+		"Open":17.76,
+		"Last":17.28,
+		"RET_BH":-3.36,
+		"RET":-3.36
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":1,
+		"Shares":20,
+		"Open":387.7,
+		"Last":411.1,
+		"RET_BH":-4.88,
+		"RET":-4.88
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":-1,
+		"Shares":4280,
+		"Open":1.170,
+		"Last":1.110,
+		"RET_BH":-5.93,
+		"RET":5.93
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":-1,
+		"Shares":330,
+		"Open":15.56,
+		"Last":16.33,
+		"RET_BH":3.81,
+		"RET":-3.81
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":1,
+		"Shares":440,
+		"Open":11.59,
+		"Last":12.13,
+		"RET_BH":-4.03,
+		"RET":-4.03
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":-1,
+		"Shares":3190,
+		"Open":1.570,
+		"Last":1.460,
+		"RET_BH":-8.75,
+		"RET":8.75
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":-1,
+		"Shares":90,
+		"Open":57.40,
+		"Last":61.57,
+		"RET_BH":7.47,
+		"RET":-7.47
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":1,
+		"Shares":1410,
+		"Open":3.570,
+		"Last":3.390,
+		"RET_BH":5.04,
+		"RET":5.04
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":-1,
+		"Shares":660,
+		"Open":7.610,
+		"Last":6.270,
+		"RET_BH":-17.9,
+		"RET":17.9
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":-1,
+		"Shares":630,
+		"Open":8.050,
+		"Last":8.120,
+		"RET_BH":0.620,
+		"RET":-0.620
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":1,
+		"Shares":930,
+		"Open":5.400,
+		"Last":5.480,
+		"RET_BH":0.735,
+		"RET":0.735
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 22 Jun 2018 ",
+		"Signal":1,
+		"Shares":170,
+		"Open":31.00,
+		"Last":29.45,
+		"RET_BH":-5.46,
+		"RET":-5.46
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":1,
+		"Shares":60,
+		"Open":97.41,
+		"Last":102.3,
+		"RET_BH":4.80,
+		"RET":4.80
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":1,
+		"Shares":250,
+		"Open":20.80,
+		"Last":23.15,
+		"RET_BH":11.0,
+		"RET":11.0
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":-1,
+		"Shares":980,
+		"Open":5.150,
+		"Last":4.750,
+		"RET_BH":-8.65,
+		"RET":8.65
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":1,
+		"Shares":580,
+		"Open":8.700,
+		"Last":8.700,
+		"RET_BH":-0.344,
+		"RET":-0.344
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":-1,
+		"Shares":470,
+		"Open":10.72,
+		"Last":11.07,
+		"RET_BH":3.27,
+		"RET":-3.27
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":-1,
+		"Shares":210,
+		"Open":24.75,
+		"Last":23.95,
+		"RET_BH":-2.84,
+		"RET":2.84
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":1,
+		"Shares":460,
+		"Open":11.07,
+		"Last":11.27,
+		"RET_BH":1.99,
+		"RET":1.99
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":-1,
+		"Shares":300,
+		"Open":17.19,
+		"Last":16.39,
+		"RET_BH":-4.65,
+		"RET":4.65
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":1,
+		"Shares":290,
+		"Open":17.34,
+		"Last":17.88,
+		"RET_BH":3.00,
+		"RET":3.00
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":1,
+		"Shares":20,
+		"Open":361.9,
+		"Last":392.0,
+		"RET_BH":8.71,
+		"RET":8.71
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":-1,
+		"Shares":4170,
+		"Open":1.200,
+		"Last":1.180,
+		"RET_BH":-1.67,
+		"RET":1.67
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":-1,
+		"Shares":290,
+		"Open":17.57,
+		"Last":15.73,
+		"RET_BH":-10.6,
+		"RET":10.6
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":-1,
+		"Shares":430,
+		"Open":11.72,
+		"Last":11.66,
+		"RET_BH":-0.681,
+		"RET":0.681
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":1,
+		"Shares":2930,
+		"Open":1.710,
+		"Last":1.600,
+		"RET_BH":6.43,
+		"RET":6.43
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":-1,
+		"Shares":90,
+		"Open":61.09,
+		"Last":57.29,
+		"RET_BH":-6.14,
+		"RET":6.14
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":-1,
+		"Shares":1470,
+		"Open":3.410,
+		"Last":3.570,
+		"RET_BH":5.62,
+		"RET":-5.62
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":1,
+		"Shares":660,
+		"Open":7.660,
+		"Last":7.640,
+		"RET_BH":-0.261,
+		"RET":-0.261
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":-1,
+		"Shares":580,
+		"Open":8.630,
+		"Last":8.070,
+		"RET_BH":-6.60,
+		"RET":6.60
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":1,
+		"Shares":960,
+		"Open":5.210,
+		"Last":5.440,
+		"RET_BH":4.42,
+		"RET":4.42
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 15 Jun 2018 ",
+		"Signal":-1,
+		"Shares":170,
+		"Open":30.30,
+		"Last":31.15,
+		"RET_BH":2.47,
+		"RET":-2.47
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":1,
+		"Shares":60,
+		"Open":96.58,
+		"Last":97.61,
+		"RET_BH":1.84,
+		"RET":1.84
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":-1,
+		"Shares":250,
+		"Open":20.40,
+		"Last":20.85,
+		"RET_BH":2.21,
+		"RET":-2.21
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":1,
+		"Shares":930,
+		"Open":5.400,
+		"Last":5.200,
+		"RET_BH":-3.70,
+		"RET":-3.70
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":1,
+		"Shares":630,
+		"Open":8.030,
+		"Last":8.730,
+		"RET_BH":9.26,
+		"RET":9.26
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":1,
+		"Shares":440,
+		"Open":11.56,
+		"Last":10.72,
+		"RET_BH":7.03,
+		"RET":7.03
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":-1,
+		"Shares":220,
+		"Open":23.55,
+		"Last":24.65,
+		"RET_BH":-4.67,
+		"RET":4.67
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":1,
+		"Shares":460,
+		"Open":11.07,
+		"Last":11.05,
+		"RET_BH":-0.181,
+		"RET":-0.181
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":1,
+		"Shares":290,
+		"Open":17.79,
+		"Last":17.19,
+		"RET_BH":-2.94,
+		"RET":-2.94
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":1,
+		"Shares":290,
+		"Open":17.31,
+		"Last":17.36,
+		"RET_BH":0.231,
+		"RET":0.231
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":362.7,
+		"Last":360.6,
+		"RET_BH":0.178,
+		"RET":-0.178
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":1,
+		"Shares":4070,
+		"Open":1.230,
+		"Last":1.200,
+		"RET_BH":4.00,
+		"RET":4.00
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":-1,
+		"Shares":280,
+		"Open":18.35,
+		"Last":17.60,
+		"RET_BH":-4.04,
+		"RET":4.04
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":1,
+		"Shares":430,
+		"Open":11.87,
+		"Last":11.74,
+		"RET_BH":-2.08,
+		"RET":-2.08
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":1,
+		"Shares":2810,
+		"Open":1.784,
+		"Last":1.710,
+		"RET_BH":-2.84,
+		"RET":-2.84
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":1,
+		"Shares":90,
+		"Open":61.83,
+		"Last":61.04,
+		"RET_BH":0.505,
+		"RET":0.505
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":-1,
+		"Shares":1360,
+		"Open":3.700,
+		"Last":3.380,
+		"RET_BH":6.89,
+		"RET":-6.89
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":1,
+		"Shares":690,
+		"Open":7.350,
+		"Last":7.660,
+		"RET_BH":4.65,
+		"RET":4.65
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":-1,
+		"Shares":590,
+		"Open":8.560,
+		"Last":8.640,
+		"RET_BH":0.817,
+		"RET":-0.817
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":1,
+		"Shares":1050,
+		"Open":4.800,
+		"Last":5.210,
+		"RET_BH":8.65,
+		"RET":8.65
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 8 Jun 2018 ",
+		"Signal":1,
+		"Shares":200,
+		"Open":25.80,
+		"Last":30.40,
+		"RET_BH":17.4,
+		"RET":17.4
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":-1,
+		"Shares":60,
+		"Open":90.89,
+		"Last":95.85,
+		"RET_BH":-4.58,
+		"RET":4.58
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":-1,
+		"Shares":250,
+		"Open":20.05,
+		"Last":20.40,
+		"RET_BH":1.11,
+		"RET":-1.11
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":-1,
+		"Shares":1030,
+		"Open":4.900,
+		"Last":5.400,
+		"RET_BH":6.93,
+		"RET":-6.93
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":1,
+		"Shares":660,
+		"Open":7.580,
+		"Last":7.990,
+		"RET_BH":6.25,
+		"RET":6.25
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":1,
+		"Shares":470,
+		"Open":10.68,
+		"Last":11.53,
+		"RET_BH":7.56,
+		"RET":7.56
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":-1,
+		"Shares":220,
+		"Open":23.10,
+		"Last":23.55,
+		"RET_BH":-0.857,
+		"RET":0.857
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":1,
+		"Shares":450,
+		"Open":11.12,
+		"Last":11.07,
+		"RET_BH":0.545,
+		"RET":0.545
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":1,
+		"Shares":320,
+		"Open":16.01,
+		"Last":17.71,
+		"RET_BH":8.78,
+		"RET":8.78
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":1,
+		"Shares":320,
+		"Open":16.11,
+		"Last":17.32,
+		"RET_BH":6.85,
+		"RET":6.85
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":1,
+		"Shares":20,
+		"Open":351.5,
+		"Last":359.9,
+		"RET_BH":2.46,
+		"RET":2.46
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":1,
+		"Shares":3970,
+		"Open":1.260,
+		"Last":1.250,
+		"RET_BH":-5.30,
+		"RET":-5.30
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":1,
+		"Shares":290,
+		"Open":17.55,
+		"Last":18.34,
+		"RET_BH":-3.67,
+		"RET":-3.67
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":-1,
+		"Shares":480,
+		"Open":10.62,
+		"Last":11.99,
+		"RET_BH":-12.1,
+		"RET":12.1
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":1,
+		"Shares":2850,
+		"Open":1.760,
+		"Last":1.760,
+		"RET_BH":-0.565,
+		"RET":-0.565
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":1,
+		"Shares":90,
+		"Open":61.25,
+		"Last":61.35,
+		"RET_BH":-0.921,
+		"RET":-0.921
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":-1,
+		"Shares":1390,
+		"Open":3.620,
+		"Last":3.630,
+		"RET_BH":11.3,
+		"RET":-11.3
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":1,
+		"Shares":740,
+		"Open":6.760,
+		"Last":7.320,
+		"RET_BH":8.44,
+		"RET":8.44
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":-1,
+		"Shares":610,
+		"Open":8.330,
+		"Last":8.570,
+		"RET_BH":2.27,
+		"RET":-2.27
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":1,
+		"Shares":1050,
+		"Open":4.800,
+		"Last":4.795,
+		"RET_BH":-0.104,
+		"RET":-0.104
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 1 Jun 2018 ",
+		"Signal":1,
+		"Shares":210,
+		"Open":24.05,
+		"Last":25.90,
+		"RET_BH":7.03,
+		"RET":7.03
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":1,
+		"Shares":60,
+		"Open":93.45,
+		"Last":91.65,
+		"RET_BH":1.96,
+		"RET":1.96
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":21.60,
+		"Last":20.18,
+		"RET_BH":-6.60,
+		"RET":6.60
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":-1,
+		"Shares":850,
+		"Open":5.900,
+		"Last":5.050,
+		"RET_BH":13.7,
+		"RET":-13.7
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":1,
+		"Shares":690,
+		"Open":7.330,
+		"Last":7.520,
+		"RET_BH":4.01,
+		"RET":4.01
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":1,
+		"Shares":430,
+		"Open":11.86,
+		"Last":10.72,
+		"RET_BH":-8.61,
+		"RET":-8.61
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":1,
+		"Shares":210,
+		"Open":23.95,
+		"Last":23.35,
+		"RET_BH":-1.68,
+		"RET":-1.68
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":1,
+		"Shares":440,
+		"Open":11.48,
+		"Last":11.01,
+		"RET_BH":-5.58,
+		"RET":-5.58
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":-1,
+		"Shares":290,
+		"Open":17.57,
+		"Last":16.28,
+		"RET_BH":6.97,
+		"RET":-6.97
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":1,
+		"Shares":310,
+		"Open":16.35,
+		"Last":16.21,
+		"RET_BH":-0.369,
+		"RET":-0.369
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":1,
+		"Shares":20,
+		"Open":327.1,
+		"Last":351.3,
+		"RET_BH":8.36,
+		"RET":8.36
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":1,
+		"Shares":4100,
+		"Open":1.220,
+		"Last":1.320,
+		"RET_BH":6.45,
+		"RET":6.45
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":-1,
+		"Shares":280,
+		"Open":18.02,
+		"Last":17.69,
+		"RET_BH":-1.72,
+		"RET":1.72
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":1,
+		"Shares":470,
+		"Open":10.81,
+		"Last":10.70,
+		"RET_BH":-0.926,
+		"RET":-0.926
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":1,
+		"Shares":2800,
+		"Open":1.790,
+		"Last":1.770,
+		"RET_BH":-0.562,
+		"RET":-0.562
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":1,
+		"Shares":80,
+		"Open":64.36,
+		"Last":61.92,
+		"RET_BH":-2.89,
+		"RET":-2.89
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":1,
+		"Shares":1510,
+		"Open":3.330,
+		"Last":3.260,
+		"RET_BH":2.40,
+		"RET":2.40
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":-1,
+		"Shares":720,
+		"Open":6.990,
+		"Last":6.750,
+		"RET_BH":3.29,
+		"RET":-3.29
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":-1,
+		"Shares":570,
+		"Open":8.870,
+		"Last":8.380,
+		"RET_BH":5.10,
+		"RET":-5.10
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":1,
+		"Shares":1040,
+		"Open":4.850,
+		"Last":4.800,
+		"RET_BH":-0.826,
+		"RET":-0.826
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 25 May 2018 ",
+		"Signal":1,
+		"Shares":210,
+		"Open":23.85,
+		"Last":24.20,
+		"RET_BH":2.11,
+		"RET":2.11
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":-1,
+		"Shares":60,
+		"Open":93.04,
+		"Last":93.48,
+		"RET_BH":0.635,
+		"RET":-0.635
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":-1,
+		"Shares":260,
+		"Open":19.80,
+		"Last":21.60,
+		"RET_BH":8.54,
+		"RET":-8.54
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":-1,
+		"Shares":1000,
+		"Open":5.050,
+		"Last":5.850,
+		"RET_BH":-15.8,
+		"RET":15.8
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":1,
+		"Shares":670,
+		"Open":7.480,
+		"Last":7.230,
+		"RET_BH":-3.60,
+		"RET":-3.60
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":1,
+		"Shares":470,
+		"Open":10.65,
+		"Last":11.73,
+		"RET_BH":10.2,
+		"RET":10.2
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":-1,
+		"Shares":220,
+		"Open":23.55,
+		"Last":23.75,
+		"RET_BH":-1.06,
+		"RET":1.06
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":1,
+		"Shares":450,
+		"Open":11.34,
+		"Last":11.66,
+		"RET_BH":2.46,
+		"RET":2.46
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":1,
+		"Shares":320,
+		"Open":15.94,
+		"Last":17.50,
+		"RET_BH":10.2,
+		"RET":10.2
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":-1,
+		"Shares":320,
+		"Open":15.90,
+		"Last":16.27,
+		"RET_BH":2.91,
+		"RET":-2.91
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":1,
+		"Shares":20,
+		"Open":327.2,
+		"Last":324.2,
+		"RET_BH":-0.698,
+		"RET":-0.698
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":1,
+		"Shares":3850,
+		"Open":1.300,
+		"Last":1.240,
+		"RET_BH":-0.800,
+		"RET":-0.800
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":-1,
+		"Shares":270,
+		"Open":18.65,
+		"Last":18.00,
+		"RET_BH":-2.97,
+		"RET":2.97
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":-1,
+		"Shares":480,
+		"Open":10.45,
+		"Last":10.80,
+		"RET_BH":4.75,
+		"RET":-4.75
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":1,
+		"Shares":2590,
+		"Open":1.937,
+		"Last":1.780,
+		"RET_BH":0,
+		"RET":0
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":1,
+		"Shares":90,
+		"Open":60.25,
+		"Last":63.76,
+		"RET_BH":6.98,
+		"RET":6.98
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":1,
+		"Shares":1690,
+		"Open":2.960,
+		"Last":3.340,
+		"RET_BH":13.6,
+		"RET":13.6
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":-1,
+		"Shares":730,
+		"Open":6.900,
+		"Last":6.980,
+		"RET_BH":1.75,
+		"RET":-1.75
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":1,
+		"Shares":580,
+		"Open":8.670,
+		"Last":8.830,
+		"RET_BH":2.32,
+		"RET":2.32
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":1,
+		"Shares":1070,
+		"Open":4.680,
+		"Last":4.840,
+		"RET_BH":3.64,
+		"RET":3.64
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 18 May 2018 ",
+		"Signal":1,
+		"Shares":210,
+		"Open":24.45,
+		"Last":23.70,
+		"RET_BH":-2.67,
+		"RET":-2.67
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":1,
+		"Shares":60,
+		"Open":90.00,
+		"Last":92.89,
+		"RET_BH":3.50,
+		"RET":3.50
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":-1,
+		"Shares":230,
+		"Open":22.25,
+		"Last":19.90,
+		"RET_BH":-9.54,
+		"RET":9.54
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":1,
+		"Shares":1090,
+		"Open":4.600,
+		"Last":5.050,
+		"RET_BH":12.2,
+		"RET":12.2
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":1,
+		"Shares":730,
+		"Open":6.860,
+		"Last":7.500,
+		"RET_BH":10.1,
+		"RET":10.1
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":1,
+		"Shares":510,
+		"Open":9.880,
+		"Last":10.64,
+		"RET_BH":8.02,
+		"RET":8.02
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":1,
+		"Shares":220,
+		"Open":22.85,
+		"Last":23.50,
+		"RET_BH":2.85,
+		"RET":2.85
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":1,
+		"Shares":460,
+		"Open":10.92,
+		"Last":11.38,
+		"RET_BH":3.74,
+		"RET":3.74
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":-1,
+		"Shares":340,
+		"Open":14.81,
+		"Last":15.88,
+		"RET_BH":-7.59,
+		"RET":7.59
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":1,
+		"Shares":350,
+		"Open":14.70,
+		"Last":15.81,
+		"RET_BH":9.34,
+		"RET":9.34
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":1,
+		"Shares":20,
+		"Open":322.0,
+		"Last":326.5,
+		"RET_BH":-1.99,
+		"RET":-1.99
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":1,
+		"Shares":4550,
+		"Open":1.100,
+		"Last":1.250,
+		"RET_BH":15.7,
+		"RET":15.7
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":-1,
+		"Shares":290,
+		"Open":17.77,
+		"Last":18.55,
+		"RET_BH":4.21,
+		"RET":-4.21
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":-1,
+		"Shares":500,
+		"Open":10.10,
+		"Last":10.31,
+		"RET_BH":-2.48,
+		"RET":2.48
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":1,
+		"Shares":2960,
+		"Open":1.690,
+		"Last":1.780,
+		"RET_BH":3.49,
+		"RET":3.49
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":-1,
+		"Shares":90,
+		"Open":57.71,
+		"Last":59.60,
+		"RET_BH":-4.43,
+		"RET":4.43
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":1,
+		"Shares":1840,
+		"Open":2.720,
+		"Last":2.940,
+		"RET_BH":8.49,
+		"RET":8.49
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":-1,
+		"Shares":740,
+		"Open":6.770,
+		"Last":6.860,
+		"RET_BH":1.33,
+		"RET":-1.33
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":1,
+		"Shares":610,
+		"Open":8.290,
+		"Last":8.630,
+		"RET_BH":-4.99,
+		"RET":-4.99
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":1,
+		"Shares":1310,
+		"Open":3.840,
+		"Last":4.670,
+		"RET_BH":21.0,
+		"RET":21.0
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 11 May 2018 ",
+		"Signal":1,
+		"Shares":220,
+		"Open":23.50,
+		"Last":24.35,
+		"RET_BH":3.62,
+		"RET":3.62
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":1,
+		"Shares":70,
+		"Open":78.65,
+		"Last":89.75,
+		"RET_BH":14.3,
+		"RET":14.3
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":-1,
+		"Shares":220,
+		"Open":23.10,
+		"Last":22.00,
+		"RET_BH":-4.56,
+		"RET":4.56
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":1,
+		"Shares":1450,
+		"Open":3.450,
+		"Last":4.500,
+		"RET_BH":28.6,
+		"RET":28.6
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":-1,
+		"Shares":740,
+		"Open":6.840,
+		"Last":6.810,
+		"RET_BH":-0.439,
+		"RET":0.439
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":1,
+		"Shares":530,
+		"Open":9.600,
+		"Last":9.850,
+		"RET_BH":-1.86,
+		"RET":-1.86
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":-1,
+		"Shares":220,
+		"Open":23.15,
+		"Last":22.85,
+		"RET_BH":-0.868,
+		"RET":0.868
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":1,
+		"Shares":450,
+		"Open":11.28,
+		"Last":10.97,
+		"RET_BH":-2.31,
+		"RET":-2.31
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":-1,
+		"Shares":290,
+		"Open":17.26,
+		"Last":14.76,
+		"RET_BH":-14.7,
+		"RET":14.7
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":-1,
+		"Shares":280,
+		"Open":18.08,
+		"Last":14.46,
+		"RET_BH":-20.0,
+		"RET":20.0
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":1,
+		"Shares":20,
+		"Open":311.1,
+		"Last":320.1,
+		"RET_BH":-2.67,
+		"RET":-2.67
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":1,
+		"Shares":4810,
+		"Open":1.041,
+		"Last":1.080,
+		"RET_BH":1.89,
+		"RET":1.89
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":-1,
+		"Shares":310,
+		"Open":16.38,
+		"Last":17.80,
+		"RET_BH":9.34,
+		"RET":-9.34
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":1,
+		"Shares":570,
+		"Open":8.780,
+		"Last":10.06,
+		"RET_BH":13.3,
+		"RET":13.3
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":1,
+		"Shares":3000,
+		"Open":1.670,
+		"Last":1.720,
+		"RET_BH":2.38,
+		"RET":2.38
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":-1,
+		"Shares":100,
+		"Open":53.47,
+		"Last":57.07,
+		"RET_BH":-6.43,
+		"RET":6.43
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":1,
+		"Shares":1730,
+		"Open":2.900,
+		"Last":2.710,
+		"RET_BH":-5.90,
+		"RET":-5.90
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":-1,
+		"Shares":730,
+		"Open":6.900,
+		"Last":6.770,
+		"RET_BH":-2.03,
+		"RET":2.03
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":-1,
+		"Shares":610,
+		"Open":8.330,
+		"Last":8.220,
+		"RET_BH":-0.844,
+		"RET":0.844
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":1,
+		"Shares":1290,
+		"Open":3.900,
+		"Last":3.860,
+		"RET_BH":-1.03,
+		"RET":-1.03
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 4 May 2018 ",
+		"Signal":1,
+		"Shares":220,
+		"Open":23.60,
+		"Last":23.50,
+		"RET_BH":0.427,
+		"RET":0.427
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":-1,
+		"Shares":70,
+		"Open":80.61,
+		"Last":78.53,
+		"RET_BH":1.83,
+		"RET":-1.83
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":-1,
+		"Shares":210,
+		"Open":24.50,
+		"Last":23.05,
+		"RET_BH":-5.92,
+		"RET":5.92
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":1,
+		"Shares":1570,
+		"Open":3.200,
+		"Last":3.500,
+		"RET_BH":9.38,
+		"RET":9.38
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":-1,
+		"Shares":720,
+		"Open":7.000,
+		"Last":6.840,
+		"RET_BH":-2.29,
+		"RET":2.29
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":1,
+		"Shares":490,
+		"Open":10.31,
+		"Last":9.670,
+		"RET_BH":-5.93,
+		"RET":-5.93
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":1,
+		"Shares":290,
+		"Open":17.85,
+		"Last":23.05,
+		"RET_BH":29.9,
+		"RET":29.9
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":1,
+		"Shares":450,
+		"Open":11.26,
+		"Last":11.23,
+		"RET_BH":-0.178,
+		"RET":-0.178
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":-1,
+		"Shares":310,
+		"Open":16.39,
+		"Last":17.31,
+		"RET_BH":-1.93,
+		"RET":1.93
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":-1,
+		"Shares":290,
+		"Open":17.30,
+		"Last":18.08,
+		"RET_BH":5.24,
+		"RET":-5.24
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":329.2,
+		"Last":311.8,
+		"RET_BH":-4.89,
+		"RET":4.89
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":1,
+		"Shares":4680,
+		"Open":1.070,
+		"Last":1.060,
+		"RET_BH":-0.935,
+		"RET":-0.935
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":-1,
+		"Shares":260,
+		"Open":19.95,
+		"Last":16.28,
+		"RET_BH":-18.2,
+		"RET":18.2
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":1,
+		"Shares":640,
+		"Open":7.820,
+		"Last":8.880,
+		"RET_BH":13.3,
+		"RET":13.3
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":1,
+		"Shares":2530,
+		"Open":1.980,
+		"Last":1.680,
+		"RET_BH":-5.62,
+		"RET":-5.62
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":1,
+		"Shares":90,
+		"Open":56.23,
+		"Last":53.62,
+		"RET_BH":4.95,
+		"RET":4.95
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":1,
+		"Shares":2000,
+		"Open":2.510,
+		"Last":2.880,
+		"RET_BH":14.7,
+		"RET":14.7
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":-1,
+		"Shares":700,
+		"Open":7.160,
+		"Last":6.910,
+		"RET_BH":-2.95,
+		"RET":2.95
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":-1,
+		"Shares":580,
+		"Open":8.670,
+		"Last":8.290,
+		"RET_BH":4.49,
+		"RET":-4.49
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":1,
+		"Shares":1300,
+		"Open":3.850,
+		"Last":3.900,
+		"RET_BH":1.04,
+		"RET":1.04
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 27 Apr 2018 ",
+		"Signal":1,
+		"Shares":220,
+		"Open":23.35,
+		"Last":23.40,
+		"RET_BH":0.214,
+		"RET":0.214
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":1,
+		"Shares":70,
+		"Open":81.36,
+		"Last":79.99,
+		"RET_BH":-1.00,
+		"RET":-1.00
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":-1,
+		"Shares":210,
+		"Open":24.45,
+		"Last":24.50,
+		"RET_BH":1.24,
+		"RET":-1.24
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":1,
+		"Shares":1700,
+		"Open":2.950,
+		"Last":3.200,
+		"RET_BH":8.48,
+		"RET":8.48
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":-1,
+		"Shares":690,
+		"Open":7.350,
+		"Last":7.000,
+		"RET_BH":-4.37,
+		"RET":4.37
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":1,
+		"Shares":570,
+		"Open":8.810,
+		"Last":10.28,
+		"RET_BH":16.7,
+		"RET":16.7
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":1,
+		"Shares":270,
+		"Open":18.70,
+		"Last":17.75,
+		"RET_BH":4.57,
+		"RET":4.57
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":1,
+		"Shares":460,
+		"Open":11.07,
+		"Last":11.25,
+		"RET_BH":2.00,
+		"RET":2.00
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":-1,
+		"Shares":280,
+		"Open":18.30,
+		"Last":17.65,
+		"RET_BH":-2.76,
+		"RET":2.76
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":-1,
+		"Shares":300,
+		"Open":16.94,
+		"Last":17.18,
+		"RET_BH":2.26,
+		"RET":-2.26
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":316.0,
+		"Last":327.8,
+		"RET_BH":5.17,
+		"RET":-5.17
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":1,
+		"Shares":4860,
+		"Open":1.030,
+		"Last":1.070,
+		"RET_BH":2.89,
+		"RET":2.89
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":-1,
+		"Shares":270,
+		"Open":18.90,
+		"Last":19.90,
+		"RET_BH":5.29,
+		"RET":-5.29
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":1,
+		"Shares":650,
+		"Open":7.710,
+		"Last":7.840,
+		"RET_BH":0.902,
+		"RET":0.902
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":1,
+		"Shares":2910,
+		"Open":1.720,
+		"Last":1.780,
+		"RET_BH":2.89,
+		"RET":2.89
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":1,
+		"Shares":100,
+		"Open":53.17,
+		"Last":56.41,
+		"RET_BH":-6.09,
+		"RET":-6.09
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":1,
+		"Shares":1950,
+		"Open":2.570,
+		"Last":2.510,
+		"RET_BH":-1.57,
+		"RET":-1.57
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":1,
+		"Shares":690,
+		"Open":7.270,
+		"Last":7.120,
+		"RET_BH":2.06,
+		"RET":2.06
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":-1,
+		"Shares":610,
+		"Open":8.250,
+		"Last":8.680,
+		"RET_BH":5.98,
+		"RET":-5.98
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":1,
+		"Shares":1260,
+		"Open":3.990,
+		"Last":3.860,
+		"RET_BH":-3.50,
+		"RET":-3.50
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 20 Apr 2018 ",
+		"Signal":1,
+		"Shares":220,
+		"Open":23.65,
+		"Last":23.35,
+		"RET_BH":0,
+		"RET":0
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":1,
+		"Shares":70,
+		"Open":72.92,
+		"Last":80.80,
+		"RET_BH":12.6,
+		"RET":12.6
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":-1,
+		"Shares":220,
+		"Open":23.50,
+		"Last":24.20,
+		"RET_BH":4.09,
+		"RET":-4.09
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":1,
+		"Shares":1930,
+		"Open":2.600,
+		"Last":2.950,
+		"RET_BH":13.5,
+		"RET":13.5
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":-1,
+		"Shares":700,
+		"Open":7.190,
+		"Last":7.320,
+		"RET_BH":3.24,
+		"RET":-3.24
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":1,
+		"Shares":630,
+		"Open":8.060,
+		"Last":8.810,
+		"RET_BH":11.9,
+		"RET":11.9
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":-1,
+		"Shares":270,
+		"Open":18.55,
+		"Last":18.60,
+		"RET_BH":0.541,
+		"RET":-0.541
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":1,
+		"Shares":450,
+		"Open":11.17,
+		"Last":11.03,
+		"RET_BH":-0.361,
+		"RET":-0.361
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":1,
+		"Shares":290,
+		"Open":17.63,
+		"Last":18.15,
+		"RET_BH":-8.10,
+		"RET":-8.10
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":-1,
+		"Shares":300,
+		"Open":16.87,
+		"Last":16.80,
+		"RET_BH":0.478,
+		"RET":-0.478
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":291.8,
+		"Last":311.6,
+		"RET_BH":7.89,
+		"RET":-7.89
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":-1,
+		"Shares":5000,
+		"Open":1.000,
+		"Last":1.040,
+		"RET_BH":8.32,
+		"RET":-8.32
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":-1,
+		"Shares":290,
+		"Open":17.60,
+		"Last":18.90,
+		"RET_BH":-12.2,
+		"RET":12.2
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":1,
+		"Shares":700,
+		"Open":7.230,
+		"Last":7.770,
+		"RET_BH":7.77,
+		"RET":7.77
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":-1,
+		"Shares":3090,
+		"Open":1.620,
+		"Last":1.730,
+		"RET_BH":6.79,
+		"RET":-6.79
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":-1,
+		"Shares":110,
+		"Open":46.24,
+		"Last":53.17,
+		"RET_BH":16.8,
+		"RET":-16.8
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":1,
+		"Shares":2100,
+		"Open":2.390,
+		"Last":2.550,
+		"RET_BH":-7.60,
+		"RET":-7.60
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":-1,
+		"Shares":670,
+		"Open":7.490,
+		"Last":7.270,
+		"RET_BH":-1.49,
+		"RET":1.49
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":-1,
+		"Shares":610,
+		"Open":8.280,
+		"Last":8.190,
+		"RET_BH":-0.967,
+		"RET":0.967
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":1,
+		"Shares":1410,
+		"Open":3.570,
+		"Last":4.000,
+		"RET_BH":11.7,
+		"RET":11.7
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 13 Apr 2018 ",
+		"Signal":-1,
+		"Shares":220,
+		"Open":23.05,
+		"Last":23.35,
+		"RET_BH":2.64,
+		"RET":-2.64
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":1,
+		"Shares":70,
+		"Open":73.02,
+		"Last":71.74,
+		"RET_BH":3.17,
+		"RET":3.17
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":1,
+		"Shares":220,
+		"Open":22.85,
+		"Last":23.25,
+		"RET_BH":1.75,
+		"RET":1.75
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":1,
+		"Shares":1860,
+		"Open":2.700,
+		"Last":2.600,
+		"RET_BH":3.70,
+		"RET":3.70
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":-1,
+		"Shares":670,
+		"Open":7.470,
+		"Last":7.090,
+		"RET_BH":-4.96,
+		"RET":4.96
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":-1,
+		"Shares":700,
+		"Open":7.190,
+		"Last":7.870,
+		"RET_BH":-9.15,
+		"RET":9.15
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":-1,
+		"Shares":260,
+		"Open":19.35,
+		"Last":18.50,
+		"RET_BH":-4.88,
+		"RET":4.88
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":1,
+		"Shares":440,
+		"Open":11.48,
+		"Last":11.07,
+		"RET_BH":-3.07,
+		"RET":-3.07
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":-1,
+		"Shares":310,
+		"Open":16.47,
+		"Last":16.79,
+		"RET_BH":1.51,
+		"RET":-1.51
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":-1,
+		"Shares":300,
+		"Open":16.93,
+		"Last":16.72,
+		"RET_BH":-1.01,
+		"RET":1.01
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":291.9,
+		"Last":288.9,
+		"RET_BH":-2.20,
+		"RET":2.20
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":-1,
+		"Shares":5030,
+		"Open":0.9954,
+		"Last":0.9601,
+		"RET_BH":-2.53,
+		"RET":2.53
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":1,
+		"Shares":230,
+		"Open":22.17,
+		"Last":21.53,
+		"RET_BH":4.18,
+		"RET":4.18
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":-1,
+		"Shares":680,
+		"Open":7.400,
+		"Last":7.210,
+		"RET_BH":-3.87,
+		"RET":3.87
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":-1,
+		"Shares":2780,
+		"Open":1.800,
+		"Last":1.620,
+		"RET_BH":-9.50,
+		"RET":9.50
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":-1,
+		"Shares":110,
+		"Open":48.92,
+		"Last":45.53,
+		"RET_BH":-7.14,
+		"RET":7.14
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":1,
+		"Shares":2090,
+		"Open":2.400,
+		"Last":2.370,
+		"RET_BH":0.837,
+		"RET":0.837
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":-1,
+		"Shares":690,
+		"Open":7.290,
+		"Last":7.380,
+		"RET_BH":1.24,
+		"RET":-1.24
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":1,
+		"Shares":620,
+		"Open":8.120,
+		"Last":8.270,
+		"RET_BH":-0.608,
+		"RET":-0.608
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":1,
+		"Shares":1350,
+		"Open":3.710,
+		"Last":3.580,
+		"RET_BH":-0.831,
+		"RET":-0.831
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 6 Apr 2018 ",
+		"Signal":-1,
+		"Shares":220,
+		"Open":23.40,
+		"Last":22.75,
+		"RET_BH":-3.81,
+		"RET":3.81
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":1,
+		"Shares":70,
+		"Open":79.34,
+		"Last":74.09,
+		"RET_BH":4.77,
+		"RET":4.77
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":-1,
+		"Shares":220,
+		"Open":23.80,
+		"Last":22.85,
+		"RET_BH":-1.93,
+		"RET":1.93
+	},
+	{
+		"Name":"PES",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":1,
+		"Shares":1620,
+		"Open":3.100,
+		"Last":2.700,
+		"RET_BH":-11.5,
+		"RET":-11.5
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":-1,
+		"Shares":680,
+		"Open":7.450,
+		"Last":7.460,
+		"RET_BH":-1.06,
+		"RET":1.06
+	},
+	{
+		"Name":"TELL",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":-1,
+		"Shares":690,
+		"Open":7.260,
+		"Last":7.210,
+		"RET_BH":0.418,
+		"RET":-0.418
+	},
+	{
+		"Name":"HZO",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":-1,
+		"Shares":260,
+		"Open":19.55,
+		"Last":19.45,
+		"RET_BH":0.777,
+		"RET":-0.777
+	},
+	{
+		"Name":"ADES",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":1,
+		"Shares":460,
+		"Open":11.05,
+		"Last":11.42,
+		"RET_BH":4.29,
+		"RET":4.29
+	},
+	{
+		"Name":"CENX",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":1,
+		"Shares":300,
+		"Open":16.86,
+		"Last":16.54,
+		"RET_BH":-0.750,
+		"RET":-0.750
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":-1,
+		"Shares":300,
+		"Open":17.05,
+		"Last":16.89,
+		"RET_BH":0.716,
+		"RET":-0.716
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":1,
+		"Shares":20,
+		"Open":309.4,
+		"Last":295.4,
+		"RET_BH":1.86,
+		"RET":1.86
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":-1,
+		"Shares":4810,
+		"Open":1.040,
+		"Last":0.9850,
+		"RET_BH":-4.37,
+		"RET":4.37
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":1,
+		"Shares":220,
+		"Open":23.02,
+		"Last":22.47,
+		"RET_BH":0.443,
+		"RET":0.443
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":1,
+		"Shares":700,
+		"Open":7.161,
+		"Last":7.500,
+		"RET_BH":-1.63,
+		"RET":-1.63
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":-1,
+		"Shares":2620,
+		"Open":1.910,
+		"Last":1.790,
+		"RET_BH":-5.29,
+		"RET":5.29
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":-1,
+		"Shares":100,
+		"Open":51.87,
+		"Last":49.03,
+		"RET_BH":-3.77,
+		"RET":3.77
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":-1,
+		"Shares":1920,
+		"Open":2.610,
+		"Last":2.390,
+		"RET_BH":-6.64,
+		"RET":6.64
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":-1,
+		"Shares":720,
+		"Open":6.960,
+		"Last":7.290,
+		"RET_BH":5.50,
+		"RET":-5.50
+	},
+	{
+		"Name":"ERII",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":1,
+		"Shares":610,
+		"Open":8.230,
+		"Last":8.220,
+		"RET_BH":-1.61,
+		"RET":-1.61
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":1,
+		"Shares":1270,
+		"Open":3.950,
+		"Last":3.610,
+		"RET_BH":-8.38,
+		"RET":-8.38
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Thu 29 Mar 2018 ",
+		"Signal":-1,
+		"Shares":220,
+		"Open":23.35,
+		"Last":23.65,
+		"RET_BH":3.50,
+		"RET":-3.50
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":1,
+		"Shares":70,
+		"Open":80.63,
+		"Last":77.80,
+		"RET_BH":-3.86,
+		"RET":-3.86
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":-1,
+		"Shares":200,
+		"Open":25.45,
+		"Last":23.30,
+		"RET_BH":-8.45,
+		"RET":8.45
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":1,
+		"Shares":1590,
+		"Open":3.150,
+		"Last":3.050,
+		"RET_BH":-3.17,
+		"RET":-3.17
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":1,
+		"Shares":600,
+		"Open":8.380,
+		"Last":7.540,
+		"RET_BH":-10.7,
+		"RET":-10.7
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":-1,
+		"Shares":690,
+		"Open":7.300,
+		"Last":7.180,
+		"RET_BH":-2.97,
+		"RET":2.97
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":-1,
+		"Shares":250,
+		"Open":20.65,
+		"Last":19.30,
+		"RET_BH":-6.76,
+		"RET":6.76
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":1,
+		"Shares":460,
+		"Open":10.98,
+		"Last":10.95,
+		"RET_BH":-0.273,
+		"RET":-0.273
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":1,
+		"Shares":250,
+		"Open":20.56,
+		"Last":16.67,
+		"RET_BH":20.0,
+		"RET":20.0
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":-1,
+		"Shares":280,
+		"Open":17.92,
+		"Last":16.77,
+		"RET_BH":-7.14,
+		"RET":7.14
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":315.8,
+		"Last":300.9,
+		"RET_BH":5.50,
+		"RET":-5.50
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":1,
+		"Shares":4240,
+		"Open":1.180,
+		"Last":1.030,
+		"RET_BH":9.65,
+		"RET":9.65
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":1,
+		"Shares":200,
+		"Open":25.70,
+		"Last":22.57,
+		"RET_BH":12.4,
+		"RET":12.4
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":1,
+		"Shares":670,
+		"Open":7.480,
+		"Last":7.380,
+		"RET_BH":-1.34,
+		"RET":-1.34
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":-1,
+		"Shares":2520,
+		"Open":1.990,
+		"Last":1.890,
+		"RET_BH":-4.55,
+		"RET":4.55
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":-1,
+		"Shares":100,
+		"Open":52.79,
+		"Last":50.95,
+		"RET_BH":-4.39,
+		"RET":4.39
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":1,
+		"Shares":1860,
+		"Open":2.690,
+		"Last":2.560,
+		"RET_BH":-4.83,
+		"RET":-4.83
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":-1,
+		"Shares":710,
+		"Open":7.120,
+		"Last":6.910,
+		"RET_BH":-2.95,
+		"RET":2.95
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":-1,
+		"Shares":580,
+		"Open":8.670,
+		"Last":8.090,
+		"RET_BH":-7.65,
+		"RET":7.65
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":1,
+		"Shares":1240,
+		"Open":4.060,
+		"Last":3.940,
+		"RET_BH":-2.72,
+		"RET":-2.72
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 23 Mar 2018 ",
+		"Signal":-1,
+		"Shares":210,
+		"Open":24.95,
+		"Last":22.85,
+		"RET_BH":-8.78,
+		"RET":8.78
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":1,
+		"Shares":70,
+		"Open":76.36,
+		"Last":80.92,
+		"RET_BH":8.82,
+		"RET":8.82
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":1,
+		"Shares":190,
+		"Open":26.90,
+		"Last":25.45,
+		"RET_BH":5.21,
+		"RET":5.21
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":1,
+		"Shares":1620,
+		"Open":3.100,
+		"Last":3.150,
+		"RET_BH":1.61,
+		"RET":1.61
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":1,
+		"Shares":620,
+		"Open":8.140,
+		"Last":8.440,
+		"RET_BH":-4.20,
+		"RET":-4.20
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":-1,
+		"Shares":620,
+		"Open":8.150,
+		"Last":7.400,
+		"RET_BH":-8.30,
+		"RET":8.30
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":21.15,
+		"Last":20.70,
+		"RET_BH":-2.13,
+		"RET":2.13
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":1,
+		"Shares":470,
+		"Open":10.75,
+		"Last":10.98,
+		"RET_BH":2.43,
+		"RET":2.43
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":-1,
+		"Shares":250,
+		"Open":20.78,
+		"Last":20.83,
+		"RET_BH":3.37,
+		"RET":-3.37
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":1,
+		"Shares":280,
+		"Open":18.26,
+		"Last":18.06,
+		"RET_BH":1.04,
+		"RET":1.04
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":1,
+		"Shares":20,
+		"Open":333.6,
+		"Last":318.5,
+		"RET_BH":3.92,
+		"RET":3.92
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":1,
+		"Shares":4240,
+		"Open":1.180,
+		"Last":1.140,
+		"RET_BH":-1.72,
+		"RET":-1.72
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":-1,
+		"Shares":200,
+		"Open":25.46,
+		"Last":25.75,
+		"RET_BH":1.66,
+		"RET":-1.66
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":1,
+		"Shares":660,
+		"Open":7.610,
+		"Last":7.480,
+		"RET_BH":-1.58,
+		"RET":-1.58
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":1,
+		"Shares":2400,
+		"Open":2.090,
+		"Last":1.980,
+		"RET_BH":-6.16,
+		"RET":-6.16
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":1,
+		"Shares":100,
+		"Open":53.76,
+		"Last":53.29,
+		"RET_BH":1.37,
+		"RET":1.37
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":-1,
+		"Shares":1540,
+		"Open":3.250,
+		"Last":2.690,
+		"RET_BH":-16.7,
+		"RET":16.7
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":-1,
+		"Shares":690,
+		"Open":7.350,
+		"Last":7.120,
+		"RET_BH":-2.33,
+		"RET":2.33
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":1,
+		"Shares":590,
+		"Open":8.520,
+		"Last":8.760,
+		"RET_BH":3.42,
+		"RET":3.42
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":1,
+		"Shares":1220,
+		"Open":4.100,
+		"Last":4.050,
+		"RET_BH":-1.46,
+		"RET":-1.46
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 16 Mar 2018 ",
+		"Signal":1,
+		"Shares":200,
+		"Open":25.55,
+		"Last":25.05,
+		"RET_BH":2.34,
+		"RET":2.34
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":1,
+		"Shares":80,
+		"Open":67.89,
+		"Last":74.36,
+		"RET_BH":9.42,
+		"RET":9.42
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":1,
+		"Shares":200,
+		"Open":25.05,
+		"Last":26.85,
+		"RET_BH":-6.34,
+		"RET":-6.34
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":1,
+		"Shares":1820,
+		"Open":2.750,
+		"Last":3.100,
+		"RET_BH":10.7,
+		"RET":10.7
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":1,
+		"Shares":750,
+		"Open":6.720,
+		"Last":8.100,
+		"RET_BH":21.1,
+		"RET":21.1
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":-1,
+		"Shares":590,
+		"Open":8.600,
+		"Last":8.070,
+		"RET_BH":-5.94,
+		"RET":5.94
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":-1,
+		"Shares":250,
+		"Open":20.55,
+		"Last":21.15,
+		"RET_BH":2.92,
+		"RET":-2.92
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":1,
+		"Shares":480,
+		"Open":10.53,
+		"Last":10.72,
+		"RET_BH":1.32,
+		"RET":1.32
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":1,
+		"Shares":250,
+		"Open":20.67,
+		"Last":20.15,
+		"RET_BH":-3.77,
+		"RET":-3.77
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":1,
+		"Shares":290,
+		"Open":17.76,
+		"Last":18.25,
+		"RET_BH":-2.36,
+		"RET":-2.36
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":1,
+		"Shares":20,
+		"Open":302.9,
+		"Last":331.4,
+		"RET_BH":10.1,
+		"RET":10.1
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":1,
+		"Shares":4430,
+		"Open":1.130,
+		"Last":1.160,
+		"RET_BH":6.42,
+		"RET":6.42
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":1,
+		"Shares":210,
+		"Open":24.26,
+		"Last":25.33,
+		"RET_BH":6.97,
+		"RET":6.97
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":1,
+		"Shares":690,
+		"Open":7.310,
+		"Last":7.600,
+		"RET_BH":2.84,
+		"RET":2.84
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":1,
+		"Shares":2400,
+		"Open":2.090,
+		"Last":2.110,
+		"RET_BH":0.957,
+		"RET":0.957
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":1,
+		"Shares":100,
+		"Open":54.32,
+		"Last":54.03,
+		"RET_BH":-1.57,
+		"RET":-1.57
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":-1,
+		"Shares":1570,
+		"Open":3.190,
+		"Last":3.230,
+		"RET_BH":0.937,
+		"RET":-0.937
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":-1,
+		"Shares":600,
+		"Open":8.470,
+		"Last":7.290,
+		"RET_BH":-13.2,
+		"RET":13.2
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":1,
+		"Shares":750,
+		"Open":6.710,
+		"Last":8.470,
+		"RET_BH":26.2,
+		"RET":26.2
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":1,
+		"Shares":1230,
+		"Open":4.080,
+		"Last":4.110,
+		"RET_BH":0.735,
+		"RET":0.735
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 9 Mar 2018 ",
+		"Signal":1,
+		"Shares":210,
+		"Open":24.50,
+		"Last":25.65,
+		"RET_BH":-4.48,
+		"RET":-4.48
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":-1,
+		"Shares":80,
+		"Open":64.04,
+		"Last":67.96,
+		"RET_BH":-6.34,
+		"RET":6.34
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":1,
+		"Shares":200,
+		"Open":26.05,
+		"Last":25.25,
+		"RET_BH":1.94,
+		"RET":1.94
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":-1,
+		"Shares":1640,
+		"Open":3.050,
+		"Last":2.800,
+		"RET_BH":5.09,
+		"RET":-5.09
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":1,
+		"Shares":810,
+		"Open":6.180,
+		"Last":6.690,
+		"RET_BH":8.60,
+		"RET":8.60
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":-1,
+		"Shares":560,
+		"Open":8.980,
+		"Last":8.580,
+		"RET_BH":-3.49,
+		"RET":3.49
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":20.95,
+		"Last":20.55,
+		"RET_BH":-1.68,
+		"RET":1.68
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":1,
+		"Shares":520,
+		"Open":9.630,
+		"Last":10.58,
+		"RET_BH":9.98,
+		"RET":9.98
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":21.20,
+		"Last":20.94,
+		"RET_BH":-0.0480,
+		"RET":0.0480
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":1,
+		"Shares":290,
+		"Open":17.63,
+		"Last":17.83,
+		"RET_BH":-1.19,
+		"RET":-1.19
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":288.7,
+		"Last":301.0,
+		"RET_BH":5.29,
+		"RET":-5.29
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":-1,
+		"Shares":5050,
+		"Open":0.9901,
+		"Last":1.090,
+		"RET_BH":9.55,
+		"RET":-9.55
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":-1,
+		"Shares":160,
+		"Open":31.68,
+		"Last":23.68,
+		"RET_BH":-24.9,
+		"RET":24.9
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":1,
+		"Shares":730,
+		"Open":6.900,
+		"Last":7.390,
+		"RET_BH":6.95,
+		"RET":6.95
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":1,
+		"Shares":2390,
+		"Open":2.100,
+		"Last":2.090,
+		"RET_BH":-0.476,
+		"RET":-0.476
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":1,
+		"Shares":100,
+		"Open":55.00,
+		"Last":54.89,
+		"RET_BH":0.109,
+		"RET":0.109
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":-1,
+		"Shares":1540,
+		"Open":3.260,
+		"Last":3.200,
+		"RET_BH":-0.929,
+		"RET":0.929
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":1,
+		"Shares":630,
+		"Open":8.005,
+		"Last":8.400,
+		"RET_BH":-5.93,
+		"RET":-5.93
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":-1,
+		"Shares":650,
+		"Open":7.790,
+		"Last":6.710,
+		"RET_BH":-13.9,
+		"RET":13.9
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":1,
+		"Shares":1220,
+		"Open":4.120,
+		"Last":4.080,
+		"RET_BH":-0.245,
+		"RET":-0.245
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 2 Mar 2018 ",
+		"Signal":-1,
+		"Shares":200,
+		"Open":26.00,
+		"Last":24.55,
+		"RET_BH":5.76,
+		"RET":-5.76
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":1,
+		"Shares":80,
+		"Open":64.25,
+		"Last":63.91,
+		"RET_BH":-0.141,
+		"RET":-0.141
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":-1,
+		"Shares":210,
+		"Open":24.70,
+		"Last":25.75,
+		"RET_BH":-2.39,
+		"RET":2.39
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":-1,
+		"Shares":1790,
+		"Open":2.800,
+		"Last":2.950,
+		"RET_BH":7.27,
+		"RET":-7.27
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":-1,
+		"Shares":850,
+		"Open":5.950,
+		"Last":6.160,
+		"RET_BH":-3.18,
+		"RET":3.18
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":-1,
+		"Shares":500,
+		"Open":10.00,
+		"Last":8.890,
+		"RET_BH":-11.0,
+		"RET":11.0
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":21.50,
+		"Last":20.90,
+		"RET_BH":2.79,
+		"RET":-2.79
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":1,
+		"Shares":580,
+		"Open":8.700,
+		"Last":9.620,
+		"RET_BH":5.71,
+		"RET":5.71
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":1,
+		"Shares":210,
+		"Open":23.83,
+		"Last":20.93,
+		"RET_BH":13.2,
+		"RET":13.2
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":-1,
+		"Shares":280,
+		"Open":18.12,
+		"Last":17.62,
+		"RET_BH":-3.61,
+		"RET":3.61
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":277.7,
+		"Last":285.9,
+		"RET_BH":-2.66,
+		"RET":2.66
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":-1,
+		"Shares":4810,
+		"Open":1.040,
+		"Last":0.9950,
+		"RET_BH":-5.24,
+		"RET":5.24
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":-1,
+		"Shares":170,
+		"Open":30.70,
+		"Last":31.52,
+		"RET_BH":1.94,
+		"RET":-1.94
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":1,
+		"Shares":730,
+		"Open":6.900,
+		"Last":6.910,
+		"RET_BH":-1.00,
+		"RET":-1.00
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":-1,
+		"Shares":2360,
+		"Open":2.120,
+		"Last":2.100,
+		"RET_BH":0.943,
+		"RET":-0.943
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":-1,
+		"Shares":100,
+		"Open":52.11,
+		"Last":54.83,
+		"RET_BH":-5.73,
+		"RET":5.73
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":-1,
+		"Shares":1480,
+		"Open":3.400,
+		"Last":3.230,
+		"RET_BH":-5.83,
+		"RET":5.83
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":-1,
+		"Shares":650,
+		"Open":7.790,
+		"Last":7.930,
+		"RET_BH":2.46,
+		"RET":-2.46
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":-1,
+		"Shares":650,
+		"Open":7.770,
+		"Last":7.790,
+		"RET_BH":-0.128,
+		"RET":0.128
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":1,
+		"Shares":1210,
+		"Open":4.140,
+		"Last":4.090,
+		"RET_BH":-1.21,
+		"RET":-1.21
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 23 Feb 2018 ",
+		"Signal":-1,
+		"Shares":200,
+		"Open":26.05,
+		"Last":26.05,
+		"RET_BH":-0.969,
+		"RET":0.969
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":-1,
+		"Shares":90,
+		"Open":56.06,
+		"Last":64.00,
+		"RET_BH":16.1,
+		"RET":-16.1
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":1,
+		"Shares":210,
+		"Open":24.05,
+		"Last":25.15,
+		"RET_BH":5.23,
+		"RET":5.23
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":-1,
+		"Shares":1790,
+		"Open":2.800,
+		"Last":2.750,
+		"RET_BH":0,
+		"RET":0
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":1,
+		"Shares":920,
+		"Open":5.450,
+		"Last":5.970,
+		"RET_BH":10.1,
+		"RET":10.1
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":-1,
+		"Shares":490,
+		"Open":10.24,
+		"Last":9.990,
+		"RET_BH":-1.29,
+		"RET":1.29
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":21.25,
+		"Last":21.50,
+		"RET_BH":-1.42,
+		"RET":1.42
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":1,
+		"Shares":600,
+		"Open":8.380,
+		"Last":9.100,
+		"RET_BH":9.51,
+		"RET":9.51
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":21.45,
+		"Last":24.12,
+		"RET_BH":13.8,
+		"RET":-13.8
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":1,
+		"Shares":280,
+		"Open":18.40,
+		"Last":18.28,
+		"RET_BH":1.56,
+		"RET":1.56
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":252.1,
+		"Last":278.5,
+		"RET_BH":-11.6,
+		"RET":11.6
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":-1,
+		"Shares":4550,
+		"Open":1.100,
+		"Last":1.050,
+		"RET_BH":1.94,
+		"RET":-1.94
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":1,
+		"Shares":180,
+		"Open":28.58,
+		"Last":30.92,
+		"RET_BH":-9.37,
+		"RET":-9.37
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":-1,
+		"Shares":740,
+		"Open":6.800,
+		"Last":6.980,
+		"RET_BH":3.10,
+		"RET":-3.10
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":1,
+		"Shares":2520,
+		"Open":1.990,
+		"Last":2.120,
+		"RET_BH":9.85,
+		"RET":9.85
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":1,
+		"Shares":110,
+		"Open":47.30,
+		"Last":51.86,
+		"RET_BH":11.4,
+		"RET":11.4
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":1,
+		"Shares":1530,
+		"Open":3.280,
+		"Last":3.430,
+		"RET_BH":4.73,
+		"RET":4.73
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":-1,
+		"Shares":540,
+		"Open":9.410,
+		"Last":7.740,
+		"RET_BH":-16.1,
+		"RET":16.1
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":-1,
+		"Shares":700,
+		"Open":7.160,
+		"Last":7.800,
+		"RET_BH":9.40,
+		"RET":-9.40
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":1,
+		"Shares":1260,
+		"Open":3.990,
+		"Last":4.140,
+		"RET_BH":-3.76,
+		"RET":-3.76
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 16 Feb 2018 ",
+		"Signal":-1,
+		"Shares":210,
+		"Open":24.05,
+		"Last":25.80,
+		"RET_BH":7.28,
+		"RET":-7.28
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":-1,
+		"Shares":80,
+		"Open":62.50,
+		"Last":55.14,
+		"RET_BH":-12.6,
+		"RET":12.6
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":-1,
+		"Shares":180,
+		"Open":28.10,
+		"Last":23.90,
+		"RET_BH":-16.3,
+		"RET":16.3
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":-1,
+		"Shares":1570,
+		"Open":3.200,
+		"Last":2.750,
+		"RET_BH":-15.4,
+		"RET":15.4
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":-1,
+		"Shares":940,
+		"Open":5.350,
+		"Last":5.420,
+		"RET_BH":0.185,
+		"RET":-0.185
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":-1,
+		"Shares":460,
+		"Open":11.08,
+		"Last":10.12,
+		"RET_BH":-9.56,
+		"RET":9.56
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":1,
+		"Shares":240,
+		"Open":21.00,
+		"Last":21.20,
+		"RET_BH":0.474,
+		"RET":0.474
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":-1,
+		"Shares":640,
+		"Open":7.900,
+		"Last":8.310,
+		"RET_BH":4.92,
+		"RET":-4.92
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":1,
+		"Shares":240,
+		"Open":21.02,
+		"Last":21.19,
+		"RET_BH":0.809,
+		"RET":0.809
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":1,
+		"Shares":240,
+		"Open":21.39,
+		"Last":18.00,
+		"RET_BH":16.5,
+		"RET":16.5
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":1,
+		"Shares":20,
+		"Open":262.0,
+		"Last":249.5,
+		"RET_BH":-6.72,
+		"RET":-6.72
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":-1,
+		"Shares":4770,
+		"Open":1.050,
+		"Last":1.030,
+		"RET_BH":-2.83,
+		"RET":2.83
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":-1,
+		"Shares":180,
+		"Open":28.55,
+		"Last":28.27,
+		"RET_BH":-2.38,
+		"RET":2.38
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":-1,
+		"Shares":730,
+		"Open":6.930,
+		"Last":6.770,
+		"RET_BH":-2.45,
+		"RET":2.45
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":-1,
+		"Shares":2420,
+		"Open":2.070,
+		"Last":1.930,
+		"RET_BH":-7.21,
+		"RET":7.21
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":-1,
+		"Shares":110,
+		"Open":49.80,
+		"Last":46.55,
+		"RET_BH":-7.42,
+		"RET":7.42
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":-1,
+		"Shares":1550,
+		"Open":3.240,
+		"Last":3.275,
+		"RET_BH":-0.758,
+		"RET":0.758
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":-1,
+		"Shares":520,
+		"Open":9.760,
+		"Last":9.230,
+		"RET_BH":-6.96,
+		"RET":6.96
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":-1,
+		"Shares":640,
+		"Open":7.910,
+		"Last":7.130,
+		"RET_BH":-9.63,
+		"RET":9.63
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":1,
+		"Shares":1150,
+		"Open":4.380,
+		"Last":3.990,
+		"RET_BH":-10.1,
+		"RET":-10.1
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 9 Feb 2018 ",
+		"Signal":-1,
+		"Shares":200,
+		"Open":25.00,
+		"Last":24.05,
+		"RET_BH":-4.94,
+		"RET":4.94
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":1,
+		"Shares":80,
+		"Open":67.37,
+		"Last":63.12,
+		"RET_BH":-6.60,
+		"RET":-6.60
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":-1,
+		"Shares":170,
+		"Open":29.75,
+		"Last":28.55,
+		"RET_BH":-4.52,
+		"RET":4.52
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":1,
+		"Shares":1430,
+		"Open":3.500,
+		"Last":3.250,
+		"RET_BH":7.14,
+		"RET":7.14
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":-1,
+		"Shares":770,
+		"Open":6.520,
+		"Last":5.410,
+		"RET_BH":-17.4,
+		"RET":17.4
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":1,
+		"Shares":440,
+		"Open":11.58,
+		"Last":11.19,
+		"RET_BH":-4.52,
+		"RET":-4.52
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":-1,
+		"Shares":220,
+		"Open":23.80,
+		"Last":21.10,
+		"RET_BH":-11.3,
+		"RET":11.3
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":-1,
+		"Shares":600,
+		"Open":8.400,
+		"Last":7.920,
+		"RET_BH":-5.94,
+		"RET":5.94
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":-1,
+		"Shares":210,
+		"Open":24.30,
+		"Last":21.02,
+		"RET_BH":-13.6,
+		"RET":13.6
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":21.57,
+		"Last":21.55,
+		"RET_BH":-0.0460,
+		"RET":0.0460
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":-1,
+		"Shares":20,
+		"Open":274.2,
+		"Last":267.4,
+		"RET_BH":-2.61,
+		"RET":2.61
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":-1,
+		"Shares":4210,
+		"Open":1.190,
+		"Last":1.060,
+		"RET_BH":-10.2,
+		"RET":10.2
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":1,
+		"Shares":160,
+		"Open":32.20,
+		"Last":28.96,
+		"RET_BH":-9.87,
+		"RET":-9.87
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":-1,
+		"Shares":720,
+		"Open":7.010,
+		"Last":6.940,
+		"RET_BH":2.12,
+		"RET":-2.12
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":-1,
+		"Shares":1920,
+		"Open":2.610,
+		"Last":2.080,
+		"RET_BH":-18.1,
+		"RET":18.1
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":-1,
+		"Shares":100,
+		"Open":54.67,
+		"Last":50.28,
+		"RET_BH":-8.28,
+		"RET":8.28
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":-1,
+		"Shares":1400,
+		"Open":3.590,
+		"Last":3.300,
+		"RET_BH":-8.84,
+		"RET":8.84
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":1,
+		"Shares":440,
+		"Open":11.59,
+		"Last":9.920,
+		"RET_BH":14.4,
+		"RET":14.4
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":-1,
+		"Shares":620,
+		"Open":8.090,
+		"Last":7.890,
+		"RET_BH":-2.71,
+		"RET":2.71
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":1,
+		"Shares":1060,
+		"Open":4.730,
+		"Last":4.440,
+		"RET_BH":-8.26,
+		"RET":-8.26
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 2 Feb 2018 ",
+		"Signal":1,
+		"Shares":190,
+		"Open":27.05,
+		"Last":25.30,
+		"RET_BH":-7.16,
+		"RET":-7.16
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":-1,
+		"Shares":80,
+		"Open":63.09,
+		"Last":67.58,
+		"RET_BH":-8.34,
+		"RET":8.34
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":-1,
+		"Shares":180,
+		"Open":28.45,
+		"Last":29.90,
+		"RET_BH":5.84,
+		"RET":-5.84
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":1,
+		"Shares":1340,
+		"Open":3.750,
+		"Last":3.500,
+		"RET_BH":-5.41,
+		"RET":-5.41
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":-1,
+		"Shares":780,
+		"Open":6.470,
+		"Last":6.550,
+		"RET_BH":4.47,
+		"RET":-4.47
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":1,
+		"Shares":450,
+		"Open":11.35,
+		"Last":11.72,
+		"RET_BH":2.27,
+		"RET":2.27
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":1,
+		"Shares":260,
+		"Open":19.60,
+		"Last":23.80,
+		"RET_BH":22.1,
+		"RET":22.1
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":-1,
+		"Shares":610,
+		"Open":8.290,
+		"Last":8.420,
+		"RET_BH":2.06,
+		"RET":-2.06
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":-1,
+		"Shares":230,
+		"Open":22.04,
+		"Last":24.34,
+		"RET_BH":9.94,
+		"RET":-9.94
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":1,
+		"Shares":240,
+		"Open":21.55,
+		"Last":21.56,
+		"RET_BH":0.691,
+		"RET":0.691
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":-1,
+		"Shares":30,
+		"Open":222.0,
+		"Last":274.6,
+		"RET_BH":-24.6,
+		"RET":24.6
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":-1,
+		"Shares":3970,
+		"Open":1.260,
+		"Last":1.180,
+		"RET_BH":-6.35,
+		"RET":6.35
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":1,
+		"Shares":190,
+		"Open":27.35,
+		"Last":32.13,
+		"RET_BH":19.4,
+		"RET":19.4
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":-1,
+		"Shares":750,
+		"Open":6.700,
+		"Last":7.090,
+		"RET_BH":5.98,
+		"RET":-5.98
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":-1,
+		"Shares":1640,
+		"Open":3.060,
+		"Last":2.540,
+		"RET_BH":-6.96,
+		"RET":6.96
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":-1,
+		"Shares":100,
+		"Open":55.13,
+		"Last":54.82,
+		"RET_BH":0.273,
+		"RET":-0.273
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":-1,
+		"Shares":1330,
+		"Open":3.760,
+		"Last":3.620,
+		"RET_BH":-3.47,
+		"RET":3.47
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":-1,
+		"Shares":460,
+		"Open":11.05,
+		"Last":11.59,
+		"RET_BH":5.46,
+		"RET":-5.46
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":-1,
+		"Shares":570,
+		"Open":8.800,
+		"Last":8.110,
+		"RET_BH":-7.95,
+		"RET":7.95
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":1,
+		"Shares":1110,
+		"Open":4.510,
+		"Last":4.840,
+		"RET_BH":6.37,
+		"RET":6.37
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 26 Jan 2018 ",
+		"Signal":-1,
+		"Shares":190,
+		"Open":27.45,
+		"Last":27.25,
+		"RET_BH":-0.184,
+		"RET":0.184
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":1,
+		"Shares":90,
+		"Open":61.65,
+		"Last":62.38,
+		"RET_BH":1.40,
+		"RET":1.40
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":-1,
+		"Shares":190,
+		"Open":27.50,
+		"Last":28.25,
+		"RET_BH":3.29,
+		"RET":-3.29
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":1,
+		"Shares":1210,
+		"Open":4.150,
+		"Last":3.700,
+		"RET_BH":-7.50,
+		"RET":-7.50
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":1,
+		"Shares":790,
+		"Open":6.390,
+		"Last":6.270,
+		"RET_BH":-1.10,
+		"RET":-1.10
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":1,
+		"Shares":440,
+		"Open":11.40,
+		"Last":11.46,
+		"RET_BH":2.32,
+		"RET":2.32
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":1,
+		"Shares":260,
+		"Open":19.75,
+		"Last":19.50,
+		"RET_BH":-0.510,
+		"RET":-0.510
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":-1,
+		"Shares":570,
+		"Open":8.840,
+		"Last":8.250,
+		"RET_BH":-6.67,
+		"RET":6.67
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":1,
+		"Shares":240,
+		"Open":21.21,
+		"Last":22.14,
+		"RET_BH":1.84,
+		"RET":1.84
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":1,
+		"Shares":260,
+		"Open":19.99,
+		"Last":21.71,
+		"RET_BH":9.59,
+		"RET":9.59
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":1,
+		"Shares":30,
+		"Open":224.2,
+		"Last":220.5,
+		"RET_BH":0.348,
+		"RET":0.348
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":-1,
+		"Shares":3680,
+		"Open":1.360,
+		"Last":1.260,
+		"RET_BH":-8.03,
+		"RET":8.03
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":1,
+		"Shares":180,
+		"Open":28.58,
+		"Last":26.92,
+		"RET_BH":5.11,
+		"RET":5.11
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":-1,
+		"Shares":730,
+		"Open":6.880,
+		"Last":6.690,
+		"RET_BH":-0.283,
+		"RET":0.283
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":1,
+		"Shares":1710,
+		"Open":2.930,
+		"Last":2.730,
+		"RET_BH":-8.70,
+		"RET":-8.70
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":-1,
+		"Shares":90,
+		"Open":55.83,
+		"Last":54.97,
+		"RET_BH":1.22,
+		"RET":-1.22
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":-1,
+		"Shares":1280,
+		"Open":3.930,
+		"Last":3.750,
+		"RET_BH":-4.34,
+		"RET":4.34
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":1,
+		"Shares":480,
+		"Open":10.58,
+		"Last":10.99,
+		"RET_BH":4.57,
+		"RET":4.57
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":-1,
+		"Shares":560,
+		"Open":9.010,
+		"Last":8.810,
+		"RET_BH":-1.89,
+		"RET":1.89
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":1,
+		"Shares":1170,
+		"Open":4.300,
+		"Last":4.550,
+		"RET_BH":4.60,
+		"RET":4.60
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 19 Jan 2018 ",
+		"Signal":-1,
+		"Shares":200,
+		"Open":25.90,
+		"Last":27.20,
+		"RET_BH":-5.22,
+		"RET":5.22
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":1,
+		"Shares":100,
+		"Open":54.75,
+		"Last":61.52,
+		"RET_BH":12.1,
+		"RET":12.1
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":-1,
+		"Shares":180,
+		"Open":28.40,
+		"Last":27.35,
+		"RET_BH":4.04,
+		"RET":-4.04
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":1,
+		"Shares":1390,
+		"Open":3.600,
+		"Last":4.000,
+		"RET_BH":12.7,
+		"RET":12.7
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":1,
+		"Shares":770,
+		"Open":6.530,
+		"Last":6.340,
+		"RET_BH":-1.93,
+		"RET":-1.93
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":1,
+		"Shares":450,
+		"Open":11.31,
+		"Last":11.20,
+		"RET_BH":1.08,
+		"RET":1.08
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":-1,
+		"Shares":270,
+		"Open":18.55,
+		"Last":19.60,
+		"RET_BH":5.38,
+		"RET":-5.38
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":-1,
+		"Shares":550,
+		"Open":9.250,
+		"Last":8.840,
+		"RET_BH":-4.43,
+		"RET":4.43
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":1,
+		"Shares":260,
+		"Open":19.94,
+		"Last":21.74,
+		"RET_BH":9.03,
+		"RET":9.03
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":1,
+		"Shares":260,
+		"Open":19.65,
+		"Last":19.81,
+		"RET_BH":0.814,
+		"RET":0.814
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":1,
+		"Shares":30,
+		"Open":210.0,
+		"Last":221.2,
+		"RET_BH":-5.35,
+		"RET":-5.35
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":-1,
+		"Shares":3040,
+		"Open":1.650,
+		"Last":1.370,
+		"RET_BH":5.52,
+		"RET":-5.52
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":-1,
+		"Shares":180,
+		"Open":28.97,
+		"Last":28.37,
+		"RET_BH":-1.83,
+		"RET":1.83
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":-1,
+		"Shares":730,
+		"Open":6.920,
+		"Last":6.709,
+		"RET_BH":-3.70,
+		"RET":3.70
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":-1,
+		"Shares":2080,
+		"Open":2.410,
+		"Last":2.990,
+		"RET_BH":15.9,
+		"RET":-15.9
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":1,
+		"Shares":100,
+		"Open":53.17,
+		"Last":55.65,
+		"RET_BH":4.68,
+		"RET":4.68
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":1,
+		"Shares":1290,
+		"Open":3.890,
+		"Last":3.920,
+		"RET_BH":0.885,
+		"RET":0.885
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":1,
+		"Shares":560,
+		"Open":8.960,
+		"Last":10.51,
+		"RET_BH":16.5,
+		"RET":16.5
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":-1,
+		"Shares":570,
+		"Open":8.860,
+		"Last":8.980,
+		"RET_BH":1.58,
+		"RET":-1.58
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":-1,
+		"Shares":1040,
+		"Open":4.810,
+		"Last":4.350,
+		"RET_BH":9.75,
+		"RET":-9.75
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 12 Jan 2018 ",
+		"Signal":1,
+		"Shares":220,
+		"Open":23.10,
+		"Last":25.85,
+		"RET_BH":9.77,
+		"RET":9.77
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":1,
+		"Shares":90,
+		"Open":55.87,
+		"Last":54.87,
+		"RET_BH":-1.38,
+		"RET":-1.38
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":-1,
+		"Shares":190,
+		"Open":26.35,
+		"Last":28.50,
+		"RET_BH":8.78,
+		"RET":-8.78
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":1,
+		"Shares":1590,
+		"Open":3.150,
+		"Last":3.550,
+		"RET_BH":16.4,
+		"RET":16.4
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":1,
+		"Shares":820,
+		"Open":6.110,
+		"Last":6.465,
+		"RET_BH":8.65,
+		"RET":8.65
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":1,
+		"Shares":510,
+		"Open":9.870,
+		"Last":11.08,
+		"RET_BH":-13.8,
+		"RET":-13.8
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":-1,
+		"Shares":270,
+		"Open":19.05,
+		"Last":18.60,
+		"RET_BH":-1.59,
+		"RET":1.59
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":1,
+		"Shares":520,
+		"Open":9.670,
+		"Last":9.250,
+		"RET_BH":4.24,
+		"RET":4.24
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":-1,
+		"Shares":260,
+		"Open":19.79,
+		"Last":19.94,
+		"RET_BH":1.53,
+		"RET":-1.53
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":1,
+		"Shares":270,
+		"Open":18.90,
+		"Last":19.65,
+		"RET_BH":4.19,
+		"RET":4.19
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":1,
+		"Shares":30,
+		"Open":196.1,
+		"Last":210.0,
+		"RET_BH":9.39,
+		"RET":9.39
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":1,
+		"Shares":3530,
+		"Open":1.420,
+		"Last":1.450,
+		"RET_BH":6.62,
+		"RET":6.62
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":-1,
+		"Shares":170,
+		"Open":30.39,
+		"Last":28.90,
+		"RET_BH":-4.02,
+		"RET":4.02
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":-1,
+		"Shares":720,
+		"Open":7.000,
+		"Last":6.967,
+		"RET_BH":-0.192,
+		"RET":0.192
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":1,
+		"Shares":3360,
+		"Open":1.490,
+		"Last":2.580,
+		"RET_BH":74.3,
+		"RET":74.3
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":-1,
+		"Shares":100,
+		"Open":52.08,
+		"Last":53.16,
+		"RET_BH":3.14,
+		"RET":-3.14
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":1,
+		"Shares":1270,
+		"Open":3.940,
+		"Last":3.955,
+		"RET_BH":-1.15,
+		"RET":-1.15
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":1,
+		"Shares":600,
+		"Open":8.420,
+		"Last":9.020,
+		"RET_BH":10.0,
+		"RET":10.0
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":1,
+		"Shares":580,
+		"Open":8.720,
+		"Last":8.840,
+		"RET_BH":-1.03,
+		"RET":-1.03
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":-1,
+		"Shares":1050,
+		"Open":4.790,
+		"Last":4.820,
+		"RET_BH":1.26,
+		"RET":-1.26
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 5 Jan 2018 ",
+		"Signal":1,
+		"Shares":240,
+		"Open":21.70,
+		"Last":23.55,
+		"RET_BH":9.79,
+		"RET":9.79
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":1,
+		"Shares":90,
+		"Open":55.95,
+		"Last":55.64,
+		"RET_BH":-0.590,
+		"RET":-0.590
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":-1,
+		"Shares":190,
+		"Open":27.30,
+		"Last":26.20,
+		"RET_BH":-4.38,
+		"RET":4.38
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":1,
+		"Shares":2000,
+		"Open":2.500,
+		"Last":3.050,
+		"RET_BH":24.5,
+		"RET":24.5
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":1,
+		"Shares":830,
+		"Open":6.040,
+		"Last":5.950,
+		"RET_BH":-0.833,
+		"RET":-0.833
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":1,
+		"Shares":520,
+		"Open":9.750,
+		"Last":9.740,
+		"RET_BH":0.307,
+		"RET":0.307
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":-1,
+		"Shares":260,
+		"Open":19.90,
+		"Last":18.90,
+		"RET_BH":-4.55,
+		"RET":4.55
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":1,
+		"Shares":510,
+		"Open":9.860,
+		"Last":9.660,
+		"RET_BH":-1.63,
+		"RET":-1.63
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":1,
+		"Shares":280,
+		"Open":18.05,
+		"Last":19.64,
+		"RET_BH":-8.93,
+		"RET":-8.93
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":-1,
+		"Shares":270,
+		"Open":18.85,
+		"Last":18.86,
+		"RET_BH":0.212,
+		"RET":-0.212
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":1,
+		"Shares":30,
+		"Open":189.8,
+		"Last":192.0,
+		"RET_BH":1.06,
+		"RET":1.06
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":-1,
+		"Shares":3130,
+		"Open":1.600,
+		"Last":1.360,
+		"RET_BH":-7.48,
+		"RET":7.48
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":-1,
+		"Shares":180,
+		"Open":29.10,
+		"Last":30.11,
+		"RET_BH":2.91,
+		"RET":-2.91
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":-1,
+		"Shares":720,
+		"Open":6.980,
+		"Last":6.980,
+		"RET_BH":0,
+		"RET":0
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":1,
+		"Shares":3480,
+		"Open":1.440,
+		"Last":1.480,
+		"RET_BH":1.37,
+		"RET":1.37
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":1,
+		"Shares":100,
+		"Open":50.32,
+		"Last":51.54,
+		"RET_BH":2.65,
+		"RET":2.65
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":1,
+		"Shares":1280,
+		"Open":3.930,
+		"Last":3.910,
+		"RET_BH":0.761,
+		"RET":0.761
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":-1,
+		"Shares":630,
+		"Open":7.980,
+		"Last":8.200,
+		"RET_BH":2.12,
+		"RET":-2.12
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":-1,
+		"Shares":560,
+		"Open":9.000,
+		"Last":8.750,
+		"RET_BH":-2.34,
+		"RET":2.34
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":1,
+		"Shares":1020,
+		"Open":4.930,
+		"Last":4.760,
+		"RET_BH":3.64,
+		"RET":3.64
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 29 Dec 2017 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":21.55,
+		"Last":21.45,
+		"RET_BH":0.694,
+		"RET":-0.694
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":-1,
+		"Shares":100,
+		"Open":52.82,
+		"Last":55.97,
+		"RET_BH":6.41,
+		"RET":-6.41
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":-1,
+		"Shares":190,
+		"Open":27.55,
+		"Last":27.40,
+		"RET_BH":0.550,
+		"RET":-0.550
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":1,
+		"Shares":2180,
+		"Open":2.300,
+		"Last":2.450,
+		"RET_BH":8.89,
+		"RET":8.89
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":1,
+		"Shares":860,
+		"Open":5.860,
+		"Last":6.000,
+		"RET_BH":4.71,
+		"RET":4.71
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":-1,
+		"Shares":520,
+		"Open":9.670,
+		"Last":9.770,
+		"RET_BH":1.88,
+		"RET":-1.88
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":-1,
+		"Shares":250,
+		"Open":20.60,
+		"Last":19.80,
+		"RET_BH":-3.18,
+		"RET":3.18
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":1,
+		"Shares":500,
+		"Open":10.17,
+		"Last":9.820,
+		"RET_BH":-1.51,
+		"RET":-1.51
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":1,
+		"Shares":320,
+		"Open":15.75,
+		"Last":18.03,
+		"RET_BH":15.1,
+		"RET":15.1
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":-1,
+		"Shares":280,
+		"Open":18.16,
+		"Last":18.90,
+		"RET_BH":-3.90,
+		"RET":3.90
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":-1,
+		"Shares":30,
+		"Open":191.2,
+		"Last":189.9,
+		"RET_BH":-0.0950,
+		"RET":0.0950
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":1,
+		"Shares":2530,
+		"Open":1.980,
+		"Last":1.470,
+		"RET_BH":42.7,
+		"RET":42.7
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":-1,
+		"Shares":180,
+		"Open":29.06,
+		"Last":29.26,
+		"RET_BH":0.966,
+		"RET":-0.966
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":-1,
+		"Shares":710,
+		"Open":7.110,
+		"Last":6.980,
+		"RET_BH":0.432,
+		"RET":-0.432
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":1,
+		"Shares":3380,
+		"Open":1.480,
+		"Last":1.460,
+		"RET_BH":-2.01,
+		"RET":-2.01
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":1,
+		"Shares":120,
+		"Open":44.75,
+		"Last":50.21,
+		"RET_BH":13.2,
+		"RET":13.2
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":-1,
+		"Shares":1230,
+		"Open":4.080,
+		"Last":3.940,
+		"RET_BH":3.43,
+		"RET":-3.43
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":-1,
+		"Shares":580,
+		"Open":8.700,
+		"Last":8.030,
+		"RET_BH":-7.49,
+		"RET":7.49
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":-1,
+		"Shares":540,
+		"Open":9.370,
+		"Last":8.960,
+		"RET_BH":-11.7,
+		"RET":11.7
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":1,
+		"Shares":960,
+		"Open":5.240,
+		"Last":4.940,
+		"RET_BH":-5.00,
+		"RET":-5.00
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 22 Dec 2017 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":21.10,
+		"Last":21.60,
+		"RET_BH":-2.61,
+		"RET":2.61
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":-1,
+		"Shares":100,
+		"Open":54.36,
+		"Last":52.60,
+		"RET_BH":-3.06,
+		"RET":3.06
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":1,
+		"Shares":180,
+		"Open":29.30,
+		"Last":27.25,
+		"RET_BH":6.52,
+		"RET":6.52
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":1,
+		"Shares":2390,
+		"Open":2.100,
+		"Last":2.250,
+		"RET_BH":9.76,
+		"RET":9.76
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":1,
+		"Shares":810,
+		"Open":6.180,
+		"Last":5.730,
+		"RET_BH":-7.13,
+		"RET":-7.13
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":1,
+		"Shares":510,
+		"Open":9.910,
+		"Last":9.590,
+		"RET_BH":-2.64,
+		"RET":-2.64
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":-1,
+		"Shares":230,
+		"Open":21.75,
+		"Last":20.45,
+		"RET_BH":-5.76,
+		"RET":5.76
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":1,
+		"Shares":600,
+		"Open":8.420,
+		"Last":9.970,
+		"RET_BH":18.4,
+		"RET":18.4
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":1,
+		"Shares":360,
+		"Open":14.11,
+		"Last":15.67,
+		"RET_BH":11.3,
+		"RET":11.3
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":-1,
+		"Shares":290,
+		"Open":17.36,
+		"Last":18.19,
+		"RET_BH":-4.72,
+		"RET":4.72
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":-1,
+		"Shares":30,
+		"Open":187.9,
+		"Last":190.1,
+		"RET_BH":0.838,
+		"RET":-0.838
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":1,
+		"Shares":4630,
+		"Open":1.080,
+		"Last":1.030,
+		"RET_BH":-2.92,
+		"RET":-2.92
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":1,
+		"Shares":170,
+		"Open":30.50,
+		"Last":28.98,
+		"RET_BH":4.95,
+		"RET":4.95
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":-1,
+		"Shares":720,
+		"Open":6.980,
+		"Last":6.950,
+		"RET_BH":1.91,
+		"RET":-1.91
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":1,
+		"Shares":3340,
+		"Open":1.500,
+		"Last":1.490,
+		"RET_BH":-0.667,
+		"RET":-0.667
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":1,
+		"Shares":120,
+		"Open":44.47,
+		"Last":44.35,
+		"RET_BH":0.270,
+		"RET":0.270
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":1,
+		"Shares":1230,
+		"Open":4.070,
+		"Last":4.080,
+		"RET_BH":2.00,
+		"RET":2.00
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":-1,
+		"Shares":570,
+		"Open":8.920,
+		"Last":8.680,
+		"RET_BH":-2.80,
+		"RET":2.80
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":-1,
+		"Shares":490,
+		"Open":10.28,
+		"Last":10.15,
+		"RET_BH":-0.879,
+		"RET":0.879
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":1,
+		"Shares":900,
+		"Open":5.600,
+		"Last":5.200,
+		"RET_BH":-6.98,
+		"RET":-6.98
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 15 Dec 2017 ",
+		"Signal":-1,
+		"Shares":240,
+		"Open":21.25,
+		"Last":21.05,
+		"RET_BH":0,
+		"RET":0
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":-1,
+		"Shares":90,
+		"Open":56.05,
+		"Last":54.26,
+		"RET_BH":-1.79,
+		"RET":1.79
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":-1,
+		"Shares":180,
+		"Open":28.05,
+		"Last":29.15,
+		"RET_BH":4.86,
+		"RET":-4.86
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":1,
+		"Shares":2390,
+		"Open":2.100,
+		"Last":2.050,
+		"RET_BH":-4.65,
+		"RET":-4.65
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":1,
+		"Shares":870,
+		"Open":5.750,
+		"Last":6.170,
+		"RET_BH":8.63,
+		"RET":8.63
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":1,
+		"Shares":370,
+		"Open":13.55,
+		"Last":9.850,
+		"RET_BH":-26.1,
+		"RET":-26.1
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":1,
+		"Shares":230,
+		"Open":21.75,
+		"Last":21.70,
+		"RET_BH":1.40,
+		"RET":1.40
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":-1,
+		"Shares":570,
+		"Open":8.860,
+		"Last":8.420,
+		"RET_BH":-2.43,
+		"RET":2.43
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":-1,
+		"Shares":370,
+		"Open":13.53,
+		"Last":14.08,
+		"RET_BH":5.23,
+		"RET":-5.23
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":1,
+		"Shares":300,
+		"Open":17.24,
+		"Last":17.37,
+		"RET_BH":2.00,
+		"RET":2.00
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":-1,
+		"Shares":30,
+		"Open":189.4,
+		"Last":188.5,
+		"RET_BH":0.921,
+		"RET":-0.921
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":-1,
+		"Shares":4470,
+		"Open":1.120,
+		"Last":1.061,
+		"RET_BH":-5.27,
+		"RET":5.27
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":1,
+		"Shares":170,
+		"Open":30.53,
+		"Last":30.49,
+		"RET_BH":-1.09,
+		"RET":-1.09
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":-1,
+		"Shares":660,
+		"Open":7.580,
+		"Last":6.820,
+		"RET_BH":-9.66,
+		"RET":9.66
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":1,
+		"Shares":3410,
+		"Open":1.470,
+		"Last":1.500,
+		"RET_BH":1.35,
+		"RET":1.35
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":-1,
+		"Shares":110,
+		"Open":45.75,
+		"Last":44.47,
+		"RET_BH":-2.99,
+		"RET":2.99
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":-1,
+		"Shares":1130,
+		"Open":4.460,
+		"Last":4.000,
+		"RET_BH":-9.09,
+		"RET":9.09
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":-1,
+		"Shares":560,
+		"Open":8.960,
+		"Last":8.930,
+		"RET_BH":0.904,
+		"RET":-0.904
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":1,
+		"Shares":460,
+		"Open":11.11,
+		"Last":10.24,
+		"RET_BH":-6.74,
+		"RET":-6.74
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":1,
+		"Shares":920,
+		"Open":5.470,
+		"Last":5.590,
+		"RET_BH":2.57,
+		"RET":2.57
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 8 Dec 2017 ",
+		"Signal":1,
+		"Shares":240,
+		"Open":20.95,
+		"Last":21.05,
+		"RET_BH":-1.20,
+		"RET":-1.20
+	},
+	{
+		"Name":"SRPT",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":1,
+		"Shares":90,
+		"Open":56.69,
+		"Last":55.25,
+		"RET_BH":-2.40,
+		"RET":-2.40
+	},
+	{
+		"Name":"AXDX",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":-1,
+		"Shares":190,
+		"Open":27.40,
+		"Last":27.80,
+		"RET_BH":-4.71,
+		"RET":4.71
+	},
+	{
+		"Name":"PES",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":1,
+		"Shares":2440,
+		"Open":2.050,
+		"Last":2.150,
+		"RET_BH":2.38,
+		"RET":2.38
+	},
+	{
+		"Name":"PGNX",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":-1,
+		"Shares":910,
+		"Open":5.510,
+		"Last":5.680,
+		"RET_BH":2.90,
+		"RET":-2.90
+	},
+	{
+		"Name":"TELL",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":1,
+		"Shares":420,
+		"Open":12.07,
+		"Last":13.32,
+		"RET_BH":10.4,
+		"RET":10.4
+	},
+	{
+		"Name":"HZO",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":1,
+		"Shares":240,
+		"Open":21.00,
+		"Last":21.40,
+		"RET_BH":1.91,
+		"RET":1.91
+	},
+	{
+		"Name":"ADES",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":-1,
+		"Shares":480,
+		"Open":10.42,
+		"Last":8.630,
+		"RET_BH":-17.6,
+		"RET":17.6
+	},
+	{
+		"Name":"CENX",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":-1,
+		"Shares":370,
+		"Open":13.64,
+		"Last":13.38,
+		"RET_BH":-2.05,
+		"RET":2.05
+	},
+	{
+		"Name":"OSUR",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":-1,
+		"Shares":310,
+		"Open":16.36,
+		"Last":17.03,
+		"RET_BH":3.97,
+		"RET":-3.97
+	},
+	{
+		"Name":"NFLX",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":-1,
+		"Shares":30,
+		"Open":195.6,
+		"Last":186.8,
+		"RET_BH":-4.56,
+		"RET":4.56
+	},
+	{
+		"Name":"OTIV",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":-1,
+		"Shares":4140,
+		"Open":1.210,
+		"Last":1.120,
+		"RET_BH":-7.09,
+		"RET":7.09
+	},
+	{
+		"Name":"ACAD",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":1,
+		"Shares":180,
+		"Open":28.00,
+		"Last":30.16,
+		"RET_BH":-7.71,
+		"RET":-7.71
+	},
+	{
+		"Name":"ATTU",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":-1,
+		"Shares":670,
+		"Open":7.550,
+		"Last":7.549,
+		"RET_BH":-1.32,
+		"RET":1.32
+	},
+	{
+		"Name":"TAOP",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":1,
+		"Shares":3250,
+		"Open":1.540,
+		"Last":1.480,
+		"RET_BH":-3.90,
+		"RET":-3.90
+	},
+	{
+		"Name":"PDCE",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":1,
+		"Shares":110,
+		"Open":45.59,
+		"Last":45.84,
+		"RET_BH":-0.152,
+		"RET":-0.152
+	},
+	{
+		"Name":"CPRX",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":-1,
+		"Shares":1580,
+		"Open":3.180,
+		"Last":4.400,
+		"RET_BH":25.7,
+		"RET":-25.7
+	},
+	{
+		"Name":"AVDL",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":-1,
+		"Shares":540,
+		"Open":9.350,
+		"Last":8.850,
+		"RET_BH":-5.95,
+		"RET":5.95
+	},
+	{
+		"Name":"ERII",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":1,
+		"Shares":530,
+		"Open":9.560,
+		"Last":10.98,
+		"RET_BH":14.3,
+		"RET":14.3
+	},
+	{
+		"Name":"LFVN",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":1,
+		"Shares":950,
+		"Open":5.290,
+		"Last":5.450,
+		"RET_BH":2.83,
+		"RET":2.83
+	},
+	{
+		"Name":"ACOR",
+		"Date":"Fri 1 Dec 2017 ",
+		"Signal":-1,
+		"Shares":250,
+		"Open":20.50,
+		"Last":20.80,
+		"RET_BH":1.46,
+		"RET":-1.46
+	}
+]

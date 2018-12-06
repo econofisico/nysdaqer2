@@ -1,0 +1,57 @@
+.title {
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 90px;
+}
+
+#demo {
+    text-align: center;
+}
+
+
+#dayResults {
+    text-align: center;
+}
+
+#pastResults {
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 90px;
+}
+
+#pastDayResults {
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: 220px;
+}
+
+#pastIndividualResults {
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 90px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.container2 {
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+
+#contact {
+    margin-bottom: 0px;
+    margin-top: 100px;
+}
