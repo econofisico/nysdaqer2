@@ -4,72 +4,72 @@
 		"Sinal":1,
 		"Shares":40,
 		"Open":1.2048e2,
-		"Close":1.2074e2,
-		"Return":0.220,
-		"ReturnBH":0.220
+		"Close":1.2514e2,
+		"Return":3.87,
+		"ReturnBH":3.87
 	},
 	{
 		"Name":"AXDX",
 		"Sinal":1,
 		"Shares":360,
 		"Open":1.4e1,
-		"Close":1.4137e1,
-		"Return":0.980,
-		"ReturnBH":0.980
+		"Close":1.486e1,
+		"Return":6.14,
+		"ReturnBH":6.14
 	},
 	{
 		"Name":"PES",
 		"Sinal":-1,
 		"Shares":1870,
 		"Open":2.35,
-		"Close":2.25,
-		"Return":4.26,
-		"ReturnBH":-4.26
+		"Close":2.185,
+		"Return":7.02,
+		"ReturnBH":-7.02
 	},
 	{
 		"Name":"PGNX",
 		"Sinal":-1,
 		"Shares":940,
 		"Open":4.5,
-		"Close":4.54,
-		"Return":-0.890,
-		"ReturnBH":0.890
+		"Close":4.685,
+		"Return":-4.11,
+		"ReturnBH":4.11
 	},
 	{
 		"Name":"TELL",
 		"Sinal":-1,
 		"Shares":680,
 		"Open":7.15,
-		"Close":7.01,
-		"Return":1.96,
-		"ReturnBH":-1.96
+		"Close":6.76,
+		"Return":5.45,
+		"ReturnBH":-5.45
 	},
 	{
 		"Name":"HZO",
 		"Sinal":1,
 		"Shares":230,
 		"Open":2.051e1,
-		"Close":2.02e1,
-		"Return":-1.51,
-		"ReturnBH":-1.51
+		"Close":2.08e1,
+		"Return":1.41,
+		"ReturnBH":1.41
 	},
 	{
 		"Name":"ADES",
 		"Sinal":1,
 		"Shares":500,
 		"Open":1.041e1,
-		"Close":1.03e1,
-		"Return":-1.06,
-		"ReturnBH":-1.06
+		"Close":1.047e1,
+		"Return":0.580,
+		"ReturnBH":0.580
 	},
 	{
 		"Name":"CENX",
 		"Sinal":-1,
 		"Shares":560,
 		"Open":8.72,
-		"Close":8.48,
-		"Return":2.75,
-		"ReturnBH":-2.75
+		"Close":8.51,
+		"Return":2.41,
+		"ReturnBH":-2.41
 	},
 	{
 		"Name":"OSUR",
@@ -85,98 +85,98 @@
 		"Sinal":1,
 		"Shares":10,
 		"Open":2.6802e2,
-		"Close":2.6844e2,
-		"Return":0.160,
-		"ReturnBH":0.160
+		"Close":2.7777e2,
+		"Return":3.64,
+		"ReturnBH":3.64
 	},
 	{
 		"Name":"OTIV",
 		"Sinal":-1,
 		"Shares":6490,
 		"Open":0.7401,
-		"Close":0.7799,
-		"Return":-5.38,
-		"ReturnBH":5.38
+		"Close":0.765,
+		"Return":-3.36,
+		"ReturnBH":3.36
 	},
 	{
 		"Name":"ACAD",
 		"Sinal":-1,
 		"Shares":260,
 		"Open":1.87e1,
-		"Close":1.881e1,
-		"Return":-0.590,
-		"ReturnBH":0.590
+		"Close":1.864e1,
+		"Return":0.320,
+		"ReturnBH":-0.320
 	},
 	{
 		"Name":"ATTU",
 		"Sinal":1,
 		"Shares":240,
 		"Open":1.861e1,
-		"Close":1.8943e1,
-		"Return":1.79,
-		"ReturnBH":1.79
+		"Close":2.001e1,
+		"Return":7.52,
+		"ReturnBH":7.52
 	},
 	{
 		"Name":"TAOP",
 		"Sinal":-1,
 		"Shares":3930,
 		"Open":1.1,
-		"Close":1.07,
-		"Return":2.73,
-		"ReturnBH":-2.73
+		"Close":1.075,
+		"Return":2.27,
+		"ReturnBH":-2.27
 	},
 	{
 		"Name":"PDCE",
 		"Sinal":-1,
 		"Shares":130,
 		"Open":3.374e1,
-		"Close":3.369e1,
-		"Return":0.150,
-		"ReturnBH":-0.150
+		"Close":3.3835e1,
+		"Return":-0.280,
+		"ReturnBH":0.280
 	},
 	{
 		"Name":"CPRX",
 		"Sinal":-1,
 		"Shares":1670,
 		"Open":2.3,
-		"Close":2.28,
-		"Return":0.870,
-		"ReturnBH":-0.870
+		"Close":2.18,
+		"Return":5.22,
+		"ReturnBH":-5.22
 	},
 	{
 		"Name":"AVDL",
 		"Sinal":-1,
 		"Shares":1550,
 		"Open":2.8,
-		"Close":2.75,
-		"Return":1.79,
-		"ReturnBH":-1.79
+		"Close":2.72,
+		"Return":2.86,
+		"ReturnBH":-2.86
 	},
 	{
 		"Name":"ERII",
 		"Sinal":-1,
 		"Shares":620,
 		"Open":7.96,
-		"Close":7.83,
-		"Return":1.63,
-		"ReturnBH":-1.63
+		"Close":8.052,
+		"Return":-1.16,
+		"ReturnBH":1.16
 	},
 	{
 		"Name":"LFVN",
 		"Sinal":1,
 		"Shares":420,
 		"Open":1.411e1,
-		"Close":1.4165e1,
-		"Return":0.390,
-		"ReturnBH":0.390
+		"Close":1.3981e1,
+		"Return":-0.910,
+		"ReturnBH":-0.910
 	},
 	{
 		"Name":"ACOR",
 		"Sinal":1,
 		"Shares":250,
 		"Open":1.837e1,
-		"Close":1.829e1,
-		"Return":-0.440,
-		"ReturnBH":-0.440
+		"Close":1.862e1,
+		"Return":1.36,
+		"ReturnBH":1.36
 	}
 ]
