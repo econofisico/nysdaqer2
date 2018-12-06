@@ -16,8 +16,8 @@
         return json;
     })();
 
-    var date = new Date();
-    document.getElementById("demo").innerHTML = date.toString();
+ /*   var date = new Date();
+    document.getElementById("demo").innerHTML = date.toString();*/
 
     var data = json;
     var local_data = data;
