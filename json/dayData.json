@@ -3,180 +3,180 @@
 		"Name":"SRPT",
 		"Sinal":1,
 		"Shares":40,
-		"Open":1.2048e2,
-		"Close":1.2514e2,
-		"Return":3.87,
-		"ReturnBH":3.87
+		"Open":1.264e2,
+		"Close":1.2138e2,
+		"Return":-3.97,
+		"ReturnBH":-3.97
 	},
 	{
 		"Name":"AXDX",
 		"Sinal":1,
 		"Shares":360,
-		"Open":1.4e1,
-		"Close":1.486e1,
-		"Return":6.14,
-		"ReturnBH":6.14
+		"Open":1.487e1,
+		"Close":1.415e1,
+		"Return":-4.84,
+		"ReturnBH":-4.84
 	},
 	{
 		"Name":"PES",
 		"Sinal":-1,
 		"Shares":1870,
-		"Open":2.35,
-		"Close":2.185,
-		"Return":7.02,
-		"ReturnBH":-7.02
+		"Open":2.29,
+		"Close":2.17,
+		"Return":5.24,
+		"ReturnBH":-5.24
 	},
 	{
 		"Name":"PGNX",
 		"Sinal":-1,
 		"Shares":940,
-		"Open":4.5,
-		"Close":4.685,
-		"Return":-4.11,
-		"ReturnBH":4.11
+		"Open":4.71,
+		"Close":4.56,
+		"Return":3.18,
+		"ReturnBH":-3.18
 	},
 	{
 		"Name":"TELL",
 		"Sinal":-1,
 		"Shares":680,
-		"Open":7.15,
-		"Close":6.76,
-		"Return":5.45,
-		"ReturnBH":-5.45
+		"Open":7.08,
+		"Close":6.8,
+		"Return":3.95,
+		"ReturnBH":-3.95
 	},
 	{
 		"Name":"HZO",
 		"Sinal":1,
 		"Shares":230,
-		"Open":2.051e1,
-		"Close":2.08e1,
-		"Return":1.41,
-		"ReturnBH":1.41
+		"Open":2.095e1,
+		"Close":1.986e1,
+		"Return":-5.20,
+		"ReturnBH":-5.20
 	},
 	{
 		"Name":"ADES",
 		"Sinal":1,
 		"Shares":500,
-		"Open":1.041e1,
-		"Close":1.047e1,
-		"Return":0.580,
-		"ReturnBH":0.580
+		"Open":1.05e1,
+		"Close":1.052e1,
+		"Return":0.190,
+		"ReturnBH":0.190
 	},
 	{
 		"Name":"CENX",
 		"Sinal":-1,
 		"Shares":560,
 		"Open":8.72,
-		"Close":8.51,
-		"Return":2.41,
-		"ReturnBH":-2.41
+		"Close":8.6,
+		"Return":1.38,
+		"ReturnBH":-1.38
 	},
 	{
 		"Name":"OSUR",
 		"Sinal":-1,
 		"Shares":370,
-		"Open":1.249e1,
-		"Close":1.244e1,
-		"Return":0.400,
-		"ReturnBH":-0.400
+		"Open":1.274e1,
+		"Close":1.228e1,
+		"Return":3.61,
+		"ReturnBH":-3.61
 	},
 	{
 		"Name":"NFLX",
 		"Sinal":1,
 		"Shares":10,
-		"Open":2.6802e2,
-		"Close":2.7777e2,
-		"Return":3.64,
-		"ReturnBH":3.64
+		"Open":2.8248e2,
+		"Close":2.6514e2,
+		"Return":-6.14,
+		"ReturnBH":-6.14
 	},
 	{
 		"Name":"OTIV",
 		"Sinal":-1,
 		"Shares":6490,
-		"Open":0.7401,
-		"Close":0.765,
-		"Return":-3.36,
-		"ReturnBH":3.36
+		"Open":0.78,
+		"Close":0.78,
+		"Return":0,
+		"ReturnBH":0
 	},
 	{
 		"Name":"ACAD",
 		"Sinal":-1,
 		"Shares":260,
-		"Open":1.87e1,
-		"Close":1.864e1,
-		"Return":0.320,
-		"ReturnBH":-0.320
+		"Open":1.874e1,
+		"Close":1.821e1,
+		"Return":2.83,
+		"ReturnBH":-2.83
 	},
 	{
 		"Name":"ATTU",
 		"Sinal":1,
 		"Shares":240,
-		"Open":1.861e1,
-		"Close":2.001e1,
-		"Return":7.52,
-		"ReturnBH":7.52
+		"Open":2.027e1,
+		"Close":2.072e1,
+		"Return":2.22,
+		"ReturnBH":2.22
 	},
 	{
 		"Name":"TAOP",
 		"Sinal":-1,
 		"Shares":3930,
-		"Open":1.1,
-		"Close":1.075,
-		"Return":2.27,
-		"ReturnBH":-2.27
+		"Open":1.17,
+		"Close":1.12,
+		"Return":4.27,
+		"ReturnBH":-4.27
 	},
 	{
 		"Name":"PDCE",
 		"Sinal":-1,
 		"Shares":130,
-		"Open":3.374e1,
-		"Close":3.3835e1,
-		"Return":-0.280,
-		"ReturnBH":0.280
+		"Open":3.49e1,
+		"Close":3.419e1,
+		"Return":2.03,
+		"ReturnBH":-2.03
 	},
 	{
 		"Name":"CPRX",
 		"Sinal":-1,
 		"Shares":1670,
-		"Open":2.3,
-		"Close":2.18,
-		"Return":5.22,
-		"ReturnBH":-5.22
+		"Open":2.22,
+		"Close":2.39,
+		"Return":-7.66,
+		"ReturnBH":7.66
 	},
 	{
 		"Name":"AVDL",
 		"Sinal":-1,
 		"Shares":1550,
-		"Open":2.8,
-		"Close":2.72,
-		"Return":2.86,
-		"ReturnBH":-2.86
+		"Open":2.66,
+		"Close":2.67,
+		"Return":-0.380,
+		"ReturnBH":0.380
 	},
 	{
 		"Name":"ERII",
 		"Sinal":-1,
 		"Shares":620,
-		"Open":7.96,
-		"Close":8.052,
-		"Return":-1.16,
-		"ReturnBH":1.16
+		"Open":7.8,
+		"Close":7.85,
+		"Return":-0.640,
+		"ReturnBH":0.640
 	},
 	{
 		"Name":"LFVN",
 		"Sinal":1,
 		"Shares":420,
-		"Open":1.411e1,
-		"Close":1.3981e1,
-		"Return":-0.910,
-		"ReturnBH":-0.910
+		"Open":1.422e1,
+		"Close":1.407e1,
+		"Return":-1.05,
+		"ReturnBH":-1.05
 	},
 	{
 		"Name":"ACOR",
 		"Sinal":1,
 		"Shares":250,
-		"Open":1.837e1,
-		"Close":1.862e1,
-		"Return":1.36,
-		"ReturnBH":1.36
+		"Open":1.888e1,
+		"Close":1.863e1,
+		"Return":-1.32,
+		"ReturnBH":-1.32
 	}
 ]
