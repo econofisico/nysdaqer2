@@ -1,257 +1,262 @@
 [
 	{
+		"Date":"Fri 7 Dec 2018 ",
+		"RET":6.47,
+		"RET_BH":-6.46
+	},
+	{
 		"Date":"Fri 30 Nov 2018 ",
-		"RET":1.85,
-		"RET_BH":0.0500
+		"RET":3.54,
+		"RET_BH":0.170
 	},
 	{
 		"Date":"Fri 23 Nov 2018 ",
-		"RET":3.07,
-		"RET_BH":-1.36
+		"RET":2.86,
+		"RET_BH":-3.99
 	},
 	{
 		"Date":"Fri 16 Nov 2018 ",
-		"RET":3.01,
-		"RET_BH":-4.92
+		"RET":0.350,
+		"RET_BH":-2.24
 	},
 	{
 		"Date":"Fri 9 Nov 2018 ",
-		"RET":2.10,
-		"RET_BH":-1.30
+		"RET":2.78,
+		"RET_BH":-3.19
 	},
 	{
 		"Date":"Fri 2 Nov 2018 ",
-		"RET":5.15,
-		"RET_BH":5.14
+		"RET":-2.42,
+		"RET_BH":9.69
 	},
 	{
 		"Date":"Fri 26 Oct 2018 ",
-		"RET":-0.290,
-		"RET_BH":-0.350
+		"RET":5.24,
+		"RET_BH":-6.26
 	},
 	{
 		"Date":"Fri 19 Oct 2018 ",
-		"RET":4.66,
-		"RET_BH":-2.90
+		"RET":0.670,
+		"RET_BH":-0.870
 	},
 	{
 		"Date":"Fri 12 Oct 2018 ",
-		"RET":2.05,
-		"RET_BH":-2.11
+		"RET":1.90,
+		"RET_BH":-2.78
 	},
 	{
 		"Date":"Fri 5 Oct 2018 ",
-		"RET":0.890,
-		"RET_BH":1.20
+		"RET":2.81,
+		"RET_BH":-5.61
 	},
 	{
 		"Date":"Fri 28 Sep 2018 ",
-		"RET":1.93,
-		"RET_BH":3.32
+		"RET":-0.380,
+		"RET_BH":0.790
 	},
 	{
 		"Date":"Fri 21 Sep 2018 ",
-		"RET":3.95,
-		"RET_BH":1.00
+		"RET":2.85,
+		"RET_BH":4.14
 	},
 	{
 		"Date":"Fri 14 Sep 2018 ",
-		"RET":2.12,
-		"RET_BH":2.18
+		"RET":3.97,
+		"RET_BH":-3.56
 	},
 	{
 		"Date":"Fri 7 Sep 2018 ",
-		"RET":2.56,
-		"RET_BH":3.93
+		"RET":3.22,
+		"RET_BH":-4.28
 	},
 	{
 		"Date":"Fri 31 Aug 2018 ",
-		"RET":7.15,
-		"RET_BH":1.19
+		"RET":1.09,
+		"RET_BH":2.50
 	},
 	{
 		"Date":"Fri 24 Aug 2018 ",
-		"RET":1.82,
-		"RET_BH":1.85
+		"RET":0.560,
+		"RET_BH":4.85
 	},
 	{
 		"Date":"Fri 17 Aug 2018 ",
-		"RET":3.60,
-		"RET_BH":-2.39
+		"RET":2.52,
+		"RET_BH":-2.12
 	},
 	{
 		"Date":"Fri 10 Aug 2018 ",
-		"RET":2.72,
-		"RET_BH":-1.18
+		"RET":4.88,
+		"RET_BH":0.400
 	},
 	{
 		"Date":"Fri 3 Aug 2018 ",
-		"RET":0.540,
-		"RET_BH":-2.46
+		"RET":1.08,
+		"RET_BH":0.560
 	},
 	{
 		"Date":"Fri 27 Jul 2018 ",
-		"RET":-1.84,
-		"RET_BH":2.00
+		"RET":4.61,
+		"RET_BH":-2.86
 	},
 	{
 		"Date":"Fri 20 Jul 2018 ",
-		"RET":3.20,
-		"RET_BH":-3.95
+		"RET":1.74,
+		"RET_BH":-2.61
 	},
 	{
 		"Date":"Fri 13 Jul 2018 ",
-		"RET":3.24,
-		"RET_BH":0.960
+		"RET":-0.300,
+		"RET_BH":-0.180
 	},
 	{
 		"Date":"Fri 6 Jul 2018 ",
-		"RET":-0.780,
-		"RET_BH":-0.850
+		"RET":2.74,
+		"RET_BH":5.00
 	},
 	{
 		"Date":"Fri 29 Jun 2018 ",
-		"RET":1.72,
-		"RET_BH":-8.46
+		"RET":3.80,
+		"RET_BH":-2.67
 	},
 	{
 		"Date":"Fri 22 Jun 2018 ",
-		"RET":1.87,
-		"RET_BH":-1.31
+		"RET":3.02,
+		"RET_BH":1.11
 	},
 	{
 		"Date":"Fri 15 Jun 2018 ",
-		"RET":7.04,
-		"RET_BH":4.81
+		"RET":3.65,
+		"RET_BH":0.0500
 	},
 	{
 		"Date":"Fri 8 Jun 2018 ",
-		"RET":-0.0600,
-		"RET_BH":4.86
+		"RET":1.82,
+		"RET_BH":0.570
 	},
 	{
 		"Date":"Fri 1 Jun 2018 ",
 		"RET":2.52,
-		"RET_BH":-3.46
+		"RET_BH":4.39
 	},
 	{
 		"Date":"Fri 25 May 2018 ",
-		"RET":3.45,
-		"RET_BH":0.260
+		"RET":-0.660,
+		"RET_BH":-2.25
 	},
 	{
 		"Date":"Fri 18 May 2018 ",
-		"RET":2.55,
-		"RET_BH":3.69
+		"RET":1.48,
+		"RET_BH":2.76
 	},
 	{
 		"Date":"Fri 11 May 2018 ",
-		"RET":-0.670,
-		"RET_BH":-3.09
+		"RET":5.32,
+		"RET_BH":5.42
 	},
 	{
 		"Date":"Fri 4 May 2018 ",
-		"RET":3.58,
-		"RET_BH":-2.91
+		"RET":4.53,
+		"RET_BH":1.66
 	},
 	{
 		"Date":"Fri 27 Apr 2018 ",
-		"RET":0.420,
-		"RET_BH":-0.810
+		"RET":3.48,
+		"RET_BH":0.340
 	},
 	{
 		"Date":"Fri 20 Apr 2018 ",
-		"RET":0.340,
-		"RET_BH":-1.09
+		"RET":0.930,
+		"RET_BH":1.69
 	},
 	{
 		"Date":"Fri 13 Apr 2018 ",
-		"RET":4.34,
-		"RET_BH":0.880
+		"RET":-0.0400,
+		"RET_BH":5.19
 	},
 	{
 		"Date":"Fri 6 Apr 2018 ",
-		"RET":0.320,
-		"RET_BH":0.190
+		"RET":2.31,
+		"RET_BH":-1.91
 	},
 	{
 		"Date":"Thu 29 Mar 2018 ",
-		"RET":0.740,
-		"RET_BH":-2.57
+		"RET":2.06,
+		"RET_BH":-2.76
 	},
 	{
 		"Date":"Fri 23 Mar 2018 ",
-		"RET":2.65,
-		"RET_BH":1.19
+		"RET":3.04,
+		"RET_BH":-6.20
 	},
 	{
 		"Date":"Fri 16 Mar 2018 ",
-		"RET":3.92,
-		"RET_BH":1.46
+		"RET":2.12,
+		"RET_BH":-1.98
 	},
 	{
 		"Date":"Fri 9 Mar 2018 ",
-		"RET":-1.07,
-		"RET_BH":-0.370
+		"RET":4.58,
+		"RET_BH":4.46
 	},
 	{
 		"Date":"Fri 2 Mar 2018 ",
-		"RET":2.54,
-		"RET_BH":0.430
+		"RET":2.18,
+		"RET_BH":-0.750
 	},
 	{
 		"Date":"Fri 23 Feb 2018 ",
-		"RET":-1.54,
-		"RET_BH":0.0900
+		"RET":2.31,
+		"RET_BH":-0.160
 	},
 	{
 		"Date":"Fri 16 Feb 2018 ",
-		"RET":0.710,
-		"RET_BH":-1.57
+		"RET":1.17,
+		"RET_BH":4.28
 	},
 	{
 		"Date":"Fri 9 Feb 2018 ",
-		"RET":0.510,
-		"RET_BH":3.55
+		"RET":4.17,
+		"RET_BH":-5.37
 	},
 	{
 		"Date":"Fri 2 Feb 2018 ",
-		"RET":5.87,
-		"RET_BH":-2.84
+		"RET":4.56,
+		"RET_BH":-7.91
 	},
 	{
 		"Date":"Fri 26 Jan 2018 ",
-		"RET":1.55,
-		"RET_BH":1.50
+		"RET":2.55,
+		"RET_BH":3.66
 	},
 	{
 		"Date":"Fri 19 Jan 2018 ",
-		"RET":0.760,
-		"RET_BH":0.170
+		"RET":1.78,
+		"RET_BH":-1.03
 	},
 	{
 		"Date":"Fri 12 Jan 2018 ",
-		"RET":1.74,
-		"RET_BH":-1.39
+		"RET":0.290,
+		"RET_BH":3.10
 	},
 	{
 		"Date":"Fri 5 Jan 2018 ",
-		"RET":-1.03,
-		"RET_BH":-1.28
+		"RET":5.24,
+		"RET_BH":6.56
 	},
 	{
 		"Date":"Fri 29 Dec 2017 ",
-		"RET":-1.53,
-		"RET_BH":2.22
+		"RET":1.96,
+		"RET_BH":0.390
 	},
 	{
 		"Date":"Fri 22 Dec 2017 ",
-		"RET":-0.280,
-		"RET_BH":-0.580
+		"RET":0.710,
+		"RET_BH":-0.390
 	},
 	{
 		"Date":"Fri 15 Dec 2017 ",
-		"RET":-0.210,
-		"RET_BH":-0.570
+		"RET":2.22,
+		"RET_BH":-0.360
 	}
 ]
