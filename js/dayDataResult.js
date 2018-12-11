@@ -16,12 +16,18 @@
 
     var data2 = json2;
     var local_data2 = data2;
-    var row_data2 = '<th class="danger">' + 'Strategy Return (%)' + '<th class="danger">' + 'B&H Return (%)';
+    var row_data2 = '<th class="danger">'
+    + 'Strategy'
+    + '<th class="danger">'
+    + 'B&H'
+    + '<th class="danger">'
+    + 'S&P 500';
 
     var row_data2 = row_data2 +
         '<tr class="info">' +
         ' <td>' + local_data2.Strategy + '</td>' +
         ' <td>' + local_data2.BH + '</td>' +
+        ' <td>' + local_data2.SP500 + '</td>' +
         '</tr>';
     var table_body_element2 = document.createElement('tbody');
     table_body_element2.innerHTML = row_data2;

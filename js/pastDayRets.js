@@ -26,8 +26,9 @@
 
     var row_data4 = 
     '<th>' + 'Date' + 
-    '<th>' + 'RET (%)' + 
-    '<th>' + 'RET B&H (%)';
+    '<th>' + 'Strategy' + 
+    '<th>' + 'B&H' +
+    '<th>' + 'S&P 500';
 
       for (var i = 0; i < local_data4.length; i++) {
         var row_data4 = row_data4 +
@@ -35,6 +36,7 @@
             ' <td>' + local_data4[i].Date + '</td>' +
             ' <td>' + local_data4[i].RET + '</td>' +
             ' <td>' + local_data4[i].RET_BH + '</td>' +
+            ' <td>' + local_data4[i].RET_SP500 + '</td>' +
             '</tr>';
     }
     

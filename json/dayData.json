@@ -3,180 +3,180 @@
 		"Name":"SRPT",
 		"Sinal":-1,
 		"Shares":30,
-		"Open":1.2092e2,
-		"Close":1.228e2,
-		"Return":-1.55,
-		"ReturnBH":1.55
+		"Open":1.2505e2,
+		"Close":1.2393e2,
+		"Return":0.900,
+		"ReturnBH":-0.900
 	},
 	{
 		"Name":"AXDX",
 		"Sinal":-1,
 		"Shares":330,
-		"Open":1.411e1,
-		"Close":1.423e1,
-		"Return":-0.850,
-		"ReturnBH":0.850
+		"Open":1.437e1,
+		"Close":1.385e1,
+		"Return":3.62,
+		"ReturnBH":-3.62
 	},
 	{
 		"Name":"PES",
 		"Sinal":-1,
 		"Shares":1900,
-		"Open":2.13,
-		"Close":2.1,
-		"Return":1.41,
-		"ReturnBH":-1.41
+		"Open":2.19,
+		"Close":2.055,
+		"Return":6.16,
+		"ReturnBH":-6.16
 	},
 	{
 		"Name":"PGNX",
 		"Sinal":-1,
 		"Shares":940,
-		"Open":4.56,
-		"Close":4.34,
-		"Return":4.82,
-		"ReturnBH":-4.82
+		"Open":4.39,
+		"Close":4.525,
+		"Return":-3.08,
+		"ReturnBH":3.08
 	},
 	{
 		"Name":"TELL",
 		"Sinal":-1,
 		"Shares":660,
-		"Open":6.71,
-		"Close":6.74,
-		"Return":-0.450,
-		"ReturnBH":0.450
+		"Open":6.88,
+		"Close":6.83,
+		"Return":0.730,
+		"ReturnBH":-0.730
 	},
 	{
 		"Name":"HZO",
 		"Sinal":-1,
 		"Shares":230,
-		"Open":1.975e1,
-		"Close":2.0e1,
-		"Return":-1.27,
-		"ReturnBH":1.27
+		"Open":2.04e1,
+		"Close":1.969e1,
+		"Return":3.48,
+		"ReturnBH":-3.48
 	},
 	{
 		"Name":"ADES",
 		"Sinal":1,
 		"Shares":460,
-		"Open":1.053e1,
-		"Close":1.055e1,
-		"Return":0.190,
-		"ReturnBH":0.190
+		"Open":1.067e1,
+		"Close":1.049e1,
+		"Return":-1.69,
+		"ReturnBH":-1.69
 	},
 	{
 		"Name":"CENX",
 		"Sinal":-1,
 		"Shares":530,
-		"Open":8.56,
-		"Close":8.29,
-		"Return":3.15,
-		"ReturnBH":-3.15
+		"Open":8.52,
+		"Close":8.36,
+		"Return":1.88,
+		"ReturnBH":-1.88
 	},
 	{
 		"Name":"OSUR",
 		"Sinal":-1,
 		"Shares":390,
-		"Open":1.227e1,
-		"Close":1.231e1,
-		"Return":-0.330,
-		"ReturnBH":0.330
+		"Open":1.238e1,
+		"Close":1.194e1,
+		"Return":3.55,
+		"ReturnBH":-3.55
 	},
 	{
 		"Name":"NFLX",
 		"Sinal":-1,
 		"Shares":10,
-		"Open":2.6419e2,
-		"Close":2.697e2,
-		"Return":-2.09,
-		"ReturnBH":2.09
+		"Open":2.7449e2,
+		"Close":2.6438e2,
+		"Return":3.68,
+		"ReturnBH":-3.68
 	},
 	{
 		"Name":"OTIV",
 		"Sinal":1,
 		"Shares":7290,
-		"Open":0.779,
-		"Close":0.799,
-		"Return":2.57,
-		"ReturnBH":2.57
+		"Open":0.78,
+		"Close":0.7999,
+		"Return":2.55,
+		"ReturnBH":2.55
 	},
 	{
 		"Name":"ACAD",
 		"Sinal":-1,
 		"Shares":250,
-		"Open":1.8e1,
-		"Close":1.878e1,
-		"Return":-4.33,
-		"ReturnBH":4.33
+		"Open":1.906e1,
+		"Close":1.848e1,
+		"Return":3.04,
+		"ReturnBH":-3.04
 	},
 	{
 		"Name":"ATTU",
 		"Sinal":-1,
 		"Shares":210,
-		"Open":2.1e1,
-		"Close":2.053e1,
-		"Return":2.24,
-		"ReturnBH":-2.24
+		"Open":2.093e1,
+		"Close":2.045e1,
+		"Return":2.29,
+		"ReturnBH":-2.29
 	},
 	{
 		"Name":"TAOP",
 		"Sinal":-1,
 		"Shares":4620,
-		"Open":1.12,
-		"Close":1.13,
-		"Return":-0.890,
-		"ReturnBH":0.890
+		"Open":1.13,
+		"Close":1.1,
+		"Return":2.65,
+		"ReturnBH":-2.65
 	},
 	{
 		"Name":"PDCE",
 		"Sinal":-1,
 		"Shares":140,
-		"Open":3.311e1,
-		"Close":3.336e1,
-		"Return":-0.760,
-		"ReturnBH":0.760
+		"Open":3.406e1,
+		"Close":3.313e1,
+		"Return":2.73,
+		"ReturnBH":-2.73
 	},
 	{
 		"Name":"CPRX",
 		"Sinal":1,
 		"Shares":1840,
-		"Open":2.42,
-		"Close":2.35,
-		"Return":-2.89,
-		"ReturnBH":-2.89
+		"Open":2.37,
+		"Close":2.5,
+		"Return":5.49,
+		"ReturnBH":5.49
 	},
 	{
 		"Name":"AVDL",
 		"Sinal":-1,
 		"Shares":1600,
-		"Open":2.65,
-		"Close":2.6,
-		"Return":1.89,
-		"ReturnBH":-1.89
+		"Open":2.7,
+		"Close":2.64,
+		"Return":2.22,
+		"ReturnBH":-2.22
 	},
 	{
 		"Name":"ERII",
 		"Sinal":-1,
 		"Shares":590,
-		"Open":7.81,
-		"Close":7.41,
-		"Return":5.12,
-		"ReturnBH":-5.12
+		"Open":7.411,
+		"Close":7.3,
+		"Return":1.50,
+		"ReturnBH":-1.50
 	},
 	{
 		"Name":"LFVN",
 		"Sinal":-1,
 		"Shares":360,
-		"Open":1.406e1,
-		"Close":1.434e1,
-		"Return":-1.99,
-		"ReturnBH":1.99
+		"Open":1.44e1,
+		"Close":1.437e1,
+		"Return":0.210,
+		"ReturnBH":-0.210
 	},
 	{
 		"Name":"ACOR",
 		"Sinal":-1,
 		"Shares":240,
-		"Open":1.857e1,
-		"Close":1.903e1,
-		"Return":-2.48,
-		"ReturnBH":2.48
+		"Open":1.702e1,
+		"Close":1.619e1,
+		"Return":4.88,
+		"ReturnBH":-4.88
 	}
 ]
